@@ -1,0 +1,49 @@
+{
+  "__data_type": "UTW ",
+  "Appearance": {
+    "type": "byte",
+    "value": 3
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "HasMapNote": {
+    "type": "byte",
+    "value": 0
+  },
+  "LinkedTo": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "SP_PL_SF_PC02_alfa_thornwall"
+    }
+  },
+  "MapNote": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "MapNoteEnabled": {
+    "type": "byte",
+    "value": 0
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 62
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_thornwall"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_thornwall"
+  }
+}

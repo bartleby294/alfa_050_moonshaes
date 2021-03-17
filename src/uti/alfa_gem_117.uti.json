@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 2750
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 2750
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nAnother name is meteorite, this stone is rare. all come in raw form since any go att shaping them ends in ruin.\nLORE:\nSome mastersmith is said to have found a way to work this stone along with more common metals to forge weapons with unique handling, some say undead crumble by the look, some say its the only weapon to actually hit a dragon, some say a palladin lucky to gind a starlight stone to put on his bucklet will never loose a battle again"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "starlight gem"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 5
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_117"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_117"
+  }
+}

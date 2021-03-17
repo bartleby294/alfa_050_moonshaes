@@ -1,0 +1,88 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 7
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 70
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Favourite among defensive clerics who value speed and evasion over power and destruction, the light crossbow is a great choice for support class adventurers."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 174,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Light Crossbow"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 34
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 14
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 34
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 3
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "sdlcbow"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "sdlcbow"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 10
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This ornamental stone was an opaque blue to greenish-blue, and usually occurred with blotches of darker hues in the mix.\n\nTurquoise stones are considered sacred by followers of Aerdrie Faenya and Erevan Ilesere appropriate for sacrifice, or to be consecrated for use, or recognized as boons or omens when found.\n\nElves value the pure color stones (without the darker mottling) for casting sky-related magic and mages use turquoise in the creation of items related to flight. It is also used as a good luck charm by horsemen who would put a small shard of turquoise in their horse's harness to ward off misstep or trail hazards. Turquoise has a slight gleam when it comes near gold and was therefore associated with prosperity. Foredawn was the best time of day to apply an immersion containing turquoise.\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Turquoise"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 47
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "014_gem_031"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "014_gem_031"
+  }
+}

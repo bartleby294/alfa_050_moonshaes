@@ -1,0 +1,1512 @@
+{
+  "__data_type": "UTM ",
+  "BlackMarket": {
+    "type": "byte",
+    "value": 0
+  },
+  "BM_MarkDown": {
+    "type": "int",
+    "value": 25
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "ID": {
+    "type": "byte",
+    "value": 5
+  },
+  "IdentifyPrice": {
+    "type": "int",
+    "value": -1
+  },
+  "LocName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Cloaks"
+    }
+  },
+  "MarkDown": {
+    "type": "int",
+    "value": 25
+  },
+  "MarkUp": {
+    "type": "int",
+    "value": 115
+  },
+  "MaxBuyPrice": {
+    "type": "int",
+    "value": 100
+  },
+  "OnOpenStore": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnStoreClosed": {
+    "type": "resref",
+    "value": ""
+  },
+  "ResRef": {
+    "type": "resref",
+    "value": "cloaks"
+  },
+  "StoreGold": {
+    "type": "int",
+    "value": 1000
+  },
+  "StoreList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ItemList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_blkgrdcloa001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 1,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_blkgrdcloa002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 2,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_blkgrdcloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 3,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_cloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 4,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_cloak001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 5,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_cloak002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 6,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_cloak003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 7,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_cloak004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 8,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_cloak005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 9,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_cloak006"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 3
+              }
+            },
+            {
+              "__struct_id": 10,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_cloak007"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 6
+              }
+            },
+            {
+              "__struct_id": 11,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_collarclk"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 6
+              }
+            },
+            {
+              "__struct_id": 12,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_collarclk001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 6
+              }
+            },
+            {
+              "__struct_id": 13,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_collarclk002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 6
+              }
+            },
+            {
+              "__struct_id": 14,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_collarclk003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 6
+              }
+            },
+            {
+              "__struct_id": 15,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_collarclk004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 10
+              }
+            },
+            {
+              "__struct_id": 16,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_collarclk005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 10
+              }
+            },
+            {
+              "__struct_id": 17,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_collarclk006"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 10
+              }
+            },
+            {
+              "__struct_id": 18,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_elvencloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 10
+              }
+            },
+            {
+              "__struct_id": 19,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_elvencloak001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 10
+              }
+            },
+            {
+              "__struct_id": 20,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_elvencloak002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 13
+              }
+            },
+            {
+              "__struct_id": 21,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_elvencloak003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 13
+              }
+            },
+            {
+              "__struct_id": 22,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_elvencloak004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 13
+              }
+            },
+            {
+              "__struct_id": 23,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_elvencloak005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 13
+              }
+            },
+            {
+              "__struct_id": 24,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_elvencloak006"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 13
+              }
+            },
+            {
+              "__struct_id": 25,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_elvencloak007"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 16
+              }
+            },
+            {
+              "__struct_id": 26,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_greatcloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 16
+              }
+            },
+            {
+              "__struct_id": 27,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_greatcloak001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 16
+              }
+            },
+            {
+              "__struct_id": 28,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_greatcloak002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 16
+              }
+            },
+            {
+              "__struct_id": 29,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_greatcloak003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 16
+              }
+            },
+            {
+              "__struct_id": 30,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_greatcloak004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 20
+              }
+            },
+            {
+              "__struct_id": 31,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_greatcloak005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 20
+              }
+            },
+            {
+              "__struct_id": 32,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 20
+              }
+            },
+            {
+              "__struct_id": 33,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 20
+              }
+            },
+            {
+              "__struct_id": 34,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 20
+              }
+            },
+            {
+              "__struct_id": 35,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 23
+              }
+            },
+            {
+              "__struct_id": 36,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 23
+              }
+            },
+            {
+              "__struct_id": 37,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 23
+              }
+            },
+            {
+              "__struct_id": 38,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak006"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 23
+              }
+            },
+            {
+              "__struct_id": 39,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak007"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 23
+              }
+            },
+            {
+              "__struct_id": 40,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak008"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 26
+              }
+            },
+            {
+              "__struct_id": 41,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak009"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 26
+              }
+            },
+            {
+              "__struct_id": 42,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hmagecloak010"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 26
+              }
+            },
+            {
+              "__struct_id": 43,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hoodedcloa001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 26
+              }
+            },
+            {
+              "__struct_id": 44,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hoodedcloa002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 26
+              }
+            },
+            {
+              "__struct_id": 45,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hoodedcloa003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 30
+              }
+            },
+            {
+              "__struct_id": 46,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hoodedcloa004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 30
+              }
+            },
+            {
+              "__struct_id": 47,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hoodedcloa005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 30
+              }
+            },
+            {
+              "__struct_id": 48,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hoodedcloa006"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 30
+              }
+            },
+            {
+              "__struct_id": 49,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hoodedcloa007"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 30
+              }
+            },
+            {
+              "__struct_id": 50,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hoodedcloa008"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 33
+              }
+            },
+            {
+              "__struct_id": 51,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_hoodedcloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 33
+              }
+            },
+            {
+              "__struct_id": 52,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_kntcloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 33
+              }
+            },
+            {
+              "__struct_id": 53,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_kntcloak001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 33
+              }
+            },
+            {
+              "__struct_id": 54,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_kntcloak002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 33
+              }
+            },
+            {
+              "__struct_id": 55,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_kntcloak003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 36
+              }
+            },
+            {
+              "__struct_id": 56,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_kntcloak003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 36
+              }
+            },
+            {
+              "__struct_id": 57,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_kntcloak004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 36
+              }
+            },
+            {
+              "__struct_id": 58,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_lordscloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 36
+              }
+            },
+            {
+              "__struct_id": 59,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_lordscloak001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 36
+              }
+            },
+            {
+              "__struct_id": 60,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_lordscloak002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 40
+              }
+            },
+            {
+              "__struct_id": 61,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_lordscloak003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 40
+              }
+            },
+            {
+              "__struct_id": 62,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_lordscloak004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 40
+              }
+            },
+            {
+              "__struct_id": 63,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_magecloak001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 40
+              }
+            },
+            {
+              "__struct_id": 64,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_magecloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 40
+              }
+            },
+            {
+              "__struct_id": 65,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_magecloak002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 43
+              }
+            },
+            {
+              "__struct_id": 66,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_magecloak003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 43
+              }
+            },
+            {
+              "__struct_id": 67,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_magecloak004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 43
+              }
+            },
+            {
+              "__struct_id": 68,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_magecloak005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 43
+              }
+            },
+            {
+              "__struct_id": 69,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_noblescloa001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 43
+              }
+            },
+            {
+              "__struct_id": 70,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_noblescloa002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 46
+              }
+            },
+            {
+              "__struct_id": 71,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_noblescloa003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 46
+              }
+            },
+            {
+              "__struct_id": 72,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_noblescloa004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 46
+              }
+            },
+            {
+              "__struct_id": 73,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_noblescloa005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 46
+              }
+            },
+            {
+              "__struct_id": 74,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_noblescloa006"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 46
+              }
+            },
+            {
+              "__struct_id": 75,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_noblescloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 50
+              }
+            },
+            {
+              "__struct_id": 76,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_nblgrtclk"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 50
+              }
+            },
+            {
+              "__struct_id": 77,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_nblgrtclk001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 50
+              }
+            },
+            {
+              "__struct_id": 78,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_nblgrtclk002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 50
+              }
+            },
+            {
+              "__struct_id": 79,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_nblgrtclk003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 50
+              }
+            },
+            {
+              "__struct_id": 80,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_nblgrtclk004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 53
+              }
+            },
+            {
+              "__struct_id": 81,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_nblgrtclk005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 53
+              }
+            },
+            {
+              "__struct_id": 82,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_nblgrtclk006"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 53
+              }
+            },
+            {
+              "__struct_id": 83,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_pldncloak"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 53
+              }
+            },
+            {
+              "__struct_id": 84,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_pldncloak001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 53
+              }
+            },
+            {
+              "__struct_id": 85,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_pldncloak002"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 56
+              }
+            },
+            {
+              "__struct_id": 86,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_pldncloak003"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 56
+              }
+            },
+            {
+              "__struct_id": 87,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_pldncloak004"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 56
+              }
+            },
+            {
+              "__struct_id": 88,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "fi_pldncloak005"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 56
+              }
+            },
+            {
+              "__struct_id": 89,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "sc_cloak011"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 8
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 56
+              }
+            },
+            {
+              "__struct_id": 90,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "sc_cloak013"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 60
+              }
+            },
+            {
+              "__struct_id": 91,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "sc_cloak008"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 2
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 60
+              }
+            },
+            {
+              "__struct_id": 92,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "sc_cloak009"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 4
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 60
+              }
+            },
+            {
+              "__struct_id": 93,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "sc_cloak010"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 6
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 60
+              }
+            }
+          ]
+        }
+      },
+      {
+        "__struct_id": 4
+      },
+      {
+        "__struct_id": 2
+      },
+      {
+        "__struct_id": 3
+      },
+      {
+        "__struct_id": 1
+      }
+    ]
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "Cloaks"
+  },
+  "WillNotBuy": {
+    "type": "list",
+    "value": []
+  },
+  "WillOnlyBuy": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 97869,
+        "BaseItem": {
+          "type": "int",
+          "value": 80
+        }
+      }
+    ]
+  }
+}

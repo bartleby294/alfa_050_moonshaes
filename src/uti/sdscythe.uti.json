@@ -1,0 +1,86 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 55
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 36
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Looming overhead with ominous promise, these ceremonially decorated weapons were once farm tools valued for their harvesting efficiency. When wielded in battle, they are equally valued for their tendency to pass through entire groups of enemies \"harvesting\" internal organs and heads in one productive swipe"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 1549,
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 14
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 14
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 34
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 3
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "sdscythe"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "sdscythe"
+  }
+}

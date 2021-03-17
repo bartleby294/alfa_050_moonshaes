@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 300
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 300
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nWebstone is an obsididian variety in which small pieces of the stone have been cemented together by heat and great pressure in an irregular mass, the joints showing as irregular, weblike lines. It is usually black, the join lines sometimes showing white, but brown, reddish brown, and rust-red varieties have been found\nLORE:\nFor reasons clear this stone is known to render the wearer invisible to spiders . It is also belived to make the owner able to climb walls and webs but other speak of how the gem poison the mind and soul of the one holding it."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "webstone"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 5
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_118"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_118"
+  }
+}

@@ -1,0 +1,939 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AP_004_001_006_5123"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "newtransition007"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AP_050_001_004"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "newtransition001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AP_050_001_034"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "newtransition004"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AP_050_001_044"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "newtransition002"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AP_050_001_052"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "newtransition003"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AP_050_002_052"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "newtransition005"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Area Transition 001"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "areatransitio001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "dhsm22"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "dhsm22"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "dhsm23"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "dhsm023"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 1082
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 6
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Area Transition"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "newgeneric001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Fire Floaty Text On Pc Everytime"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "firefloatytexton"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Fire On Each PC Only Once"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "thisisthesmallte"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Generic Descriptive Skill Trigger (see comments for instructions)"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "dst_trigger"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Moonwell Ward"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "newgeneric003"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Seamless AT 8x8"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "seamlessat"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sleeping Zone - Deity"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sleepingzonef005"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sleeping Zone - Free"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sleepingzonefree"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sleeping Zone - High Class Inn"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sleepingzonef004"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sleeping Zone - Low Class Inn"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sleepingzonef001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sleeping Zone - Middle Class Inn"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sleepingzonef002"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sleeping Zone - Upper Class Inn"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sleepingzonef003"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6790
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 16
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Secret Door, Stone"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "secret_stonedr"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 9129
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Knockoverride"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "knockoverride"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "MoonwellTrigger02"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "newgeneric002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Swimming Trigger"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "spc_swimming"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "AP_004_002_006_5123"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "newtransition006"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "ar_antishar"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ar_antishar"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "DockWatchBadgeCheck"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dockwatchbadgech"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "lower lighting"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "lowerlighting"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Falling Bricks"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Flooding Trap"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test008"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Hidden Pit Trap"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test007"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Medium Pit Trap"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test006"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Razor Blade"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Rolling Rock Trap"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test009"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Swinging Blade"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Swinging Rock"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Wall Crusher"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test005"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Wall Spikes"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test010"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Trigger for Whirling Blade"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trap_test004"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 11
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "afrostrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14766
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "macidstrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14784
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mspiketrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14793
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trapwk_bolt001"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 69049
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trapwk_gr_ca001"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 69053
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 53181
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 12
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "aholytrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14768
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dacidstrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14773
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dfrostrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14777
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dsonictrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14781
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "macidtrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14785
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ssonictrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14803
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sspiketrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14804
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 2255
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 13
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "afiretrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14765
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "atangltrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14772
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "melectrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14786
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mfiretrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14787
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "mgastrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14789
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "stangltrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14805
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 2256
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 14
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "agastrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14767
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dspiketrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14782
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dtangltrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14783
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trapdly_arrow001"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 69011
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 2257
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 15
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Projectile Trap Trigger, Hold Person (Fatal)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "trapftl_hpers001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sgastrap002"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 14800
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 53182
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 5563
+        }
+      }
+    ]
+  }
+}

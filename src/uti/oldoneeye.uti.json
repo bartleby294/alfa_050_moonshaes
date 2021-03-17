@@ -1,0 +1,119 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 8
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 49
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 8
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This beer, its containers stamped with a stylized cyclops' head, is brewed in Llobauth on the southern coast of the Deepwash, just north of the Thornwood.  The local brewer, Araneth Idogyr, learned the recipe from a cyclops he met and, strangly, befrended during the local Goblin Wars of 1358 DR.  This relatively new brew is akin to the lagers of Calimshan - lighter and less opaque than the standard stouts of the North, but with a higher alchol content.  Old One Eye's fiery color comes from its secret brewing process.  Its odd \"hot\" aftertaste maeks this beer a one-of-a-kind drink that is growing in popularity with adventurers south of Cormyr."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Old One Eye"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 55
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 12
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 62
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 24
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ChanceAppear": {
+          "type": "byte",
+          "value": 100
+        },
+        "CostTable": {
+          "type": "byte",
+          "value": 3
+        },
+        "CostValue": {
+          "type": "word",
+          "value": 1
+        },
+        "Param1": {
+          "type": "byte",
+          "value": 255
+        },
+        "Param1Value": {
+          "type": "byte",
+          "value": 0
+        },
+        "PropertyName": {
+          "type": "word",
+          "value": 15
+        },
+        "Subtype": {
+          "type": "word",
+          "value": 330
+        }
+      }
+    ]
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "OldOneEye"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "oldoneeye"
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "__data_type": "UTC ",
+  "Appearance_Type": {
+    "type": "word",
+    "value": 1564
+  },
+  "BodyBag": {
+    "type": "byte",
+    "value": 0
+  },
+  "Cha": {
+    "type": "byte",
+    "value": 3
+  },
+  "ChallengeRating": {
+    "type": "float",
+    "value": 0.125
+  },
+  "ClassList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 2,
+        "Class": {
+          "type": "int",
+          "value": 26
+        },
+        "ClassLevel": {
+          "type": "short",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "This is just an ENWorld interpretation below, Brokenbone removed the \"crazy death burrow\" thing, since too many scripts to do if we were to automate the equivalent of an \"Infestation of Maggots\" spell, but curable via Cure Disease, or fire / surgery.\r\n\r\nNote the high hide score is NOW accompanied with a high move silently, but both nerfed to lower levels.  Who ever heard a grub sneak up on them?  A gray maggot-thing in a dark dungeon can be pretty quiet and hard to notice.\r\n\r\nAlso their Tremorsense means nearly automatic detection of delicious prey, no matter how stealthy / invisible.  Very, very slow move rate means this surprise is often easily escaped.\r\n\r\nROT GRUB\r\n \r\nFine Vermin \r\nHit Dice: 1/4d8 (1 hp) \r\nInitiative: +1 (Dex) \r\nSpeed: 5 ft\r\nArmor Class: 18 (+8 size) \r\nAttacks: Slam +4 melee\r\nDamage: Slam 0 \r\nFace/Reach: 1/2 ft by 1/2 ft/0 ft\r\nSpecial Attacks: Burrow \r\nSpecial Qualities: Vermin, tremorsense\r\nSaves: Fort +2, Ref +0, Will +0 \r\nAbilities: Str 2, Dex 10, Con 10, Int —, Wis 10, Cha 1 \r\nSkills: Jump +3, Hide +19\r\n \r\nClimate/Terrain: Any land and underground \r\nOrganization: Swarm (5-20) \r\nChallenge Rating: 1/10\r\nTreasure: None\r\nAlignment: Always neutral\r\n \r\nAdvancement Range: 1 HD (Fine)\r\n\r\nRot grubs are 1-inch long vermin found in carrion, dung, and other such garbage and organic material. Their skin color is white or brown.\r\n \r\n\r\nCOMBAT\r\n \r\nWhen a living creature contacts an area (dung heap, offal, etc) infested with rot grubs, a successful Spot check (DC 15) can be made to notice and completely avoid the grubs. If failed, the grubs contact the victim’s skin and burrow into the flesh.\r\n \r\n   Burrow (Ex): A rot grub secretes an anesthetic when it bites. A burrowing grub can be noticed if the victim succeeds at a Wisdom check (DC 15). If successful, the victim sees strange rippling beneath his skin. If failed, the creature does not notice the grubs.\r\n \r\n   A burrowing grub deals 2d6 points of temporary Constitution damage each round. At Constitution 0, the victim dies. The grubs then look for a new host. During the first two rounds, a burrowing rot grub can be killed by applying fire to the infested skin or by cutting open the infested skin with any slashing weapon. Either method deals 2d6 points of damage to the victim, but kills the grubs. After the second round, only a remove disease can kill the grubs as they burrow to the victim’s heart and devour it (still dealing 2d6 points of temporary Constitution damage each round).\r\n \r\n   Tremorsense (Ex): Rot grubs can automatically sense the location of anything within 20 feet that is in contact with the ground.\r\n \r\n   Vermin: Immune to all mind-influencing effects.\r\n \r\n"
+  },
+  "Con": {
+    "type": "byte",
+    "value": 10
+  },
+  "Conversation": {
+    "type": "resref",
+    "value": ""
+  },
+  "CRAdjust": {
+    "type": "int",
+    "value": -1
+  },
+  "CurrentHitPoints": {
+    "type": "short",
+    "value": 1
+  },
+  "DecayTime": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Deity": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Rot grubs are occasionly found in heaps of offal or dung.These small creatures will viciously burrow into any living flesh which touches them."
+    }
+  },
+  "Dex": {
+    "type": "byte",
+    "value": 10
+  },
+  "Disarmable": {
+    "type": "byte",
+    "value": 0
+  },
+  "Equip_ItemList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 65536,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "bb_rgrub"
+        }
+      },
+      {
+        "__struct_id": 131072,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "bb_verminskin"
+        }
+      }
+    ]
+  },
+  "FactionID": {
+    "type": "word",
+    "value": 1
+  },
+  "FeatList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 289
+        }
+      }
+    ]
+  },
+  "FirstName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Rot Grub"
+    }
+  },
+  "fortbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Gender": {
+    "type": "byte",
+    "value": 0
+  },
+  "GoodEvil": {
+    "type": "byte",
+    "value": 50
+  },
+  "HitPoints": {
+    "type": "short",
+    "value": 1
+  },
+  "Int": {
+    "type": "byte",
+    "value": 10
+  },
+  "Interruptable": {
+    "type": "byte",
+    "value": 1
+  },
+  "IsImmortal": {
+    "type": "byte",
+    "value": 0
+  },
+  "IsPC": {
+    "type": "byte",
+    "value": 0
+  },
+  "LastName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "LawfulChaotic": {
+    "type": "byte",
+    "value": 50
+  },
+  "Lootable": {
+    "type": "byte",
+    "value": 0
+  },
+  "MaxHitPoints": {
+    "type": "short",
+    "value": 1
+  },
+  "NaturalAC": {
+    "type": "byte",
+    "value": 8
+  },
+  "NoPermDeath": {
+    "type": "byte",
+    "value": 0
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 62
+  },
+  "PerceptionRange": {
+    "type": "byte",
+    "value": 11
+  },
+  "Phenotype": {
+    "type": "int",
+    "value": 0
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 2330
+  },
+  "Race": {
+    "type": "byte",
+    "value": 25
+  },
+  "refbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "ScriptAttacked": {
+    "type": "resref",
+    "value": "j_ai_onphiattack"
+  },
+  "ScriptDamaged": {
+    "type": "resref",
+    "value": "j_ai_ondamaged"
+  },
+  "ScriptDeath": {
+    "type": "resref",
+    "value": "j_ai_ondeath"
+  },
+  "ScriptDialogue": {
+    "type": "resref",
+    "value": "j_ai_onconversat"
+  },
+  "ScriptDisturbed": {
+    "type": "resref",
+    "value": "j_ai_ondisturbed"
+  },
+  "ScriptEndRound": {
+    "type": "resref",
+    "value": "j_ai_oncombatrou"
+  },
+  "ScriptHeartbeat": {
+    "type": "resref",
+    "value": "j_ai_onheartbeat"
+  },
+  "ScriptOnBlocked": {
+    "type": "resref",
+    "value": "j_ai_onblocked"
+  },
+  "ScriptOnNotice": {
+    "type": "resref",
+    "value": "j_ai_onpercieve"
+  },
+  "ScriptRested": {
+    "type": "resref",
+    "value": "j_ai_onrest"
+  },
+  "ScriptSpawn": {
+    "type": "resref",
+    "value": "jai_rogue_onsp"
+  },
+  "ScriptSpellAt": {
+    "type": "resref",
+    "value": "j_ai_onspellcast"
+  },
+  "ScriptUserDefine": {
+    "type": "resref",
+    "value": "j_ai_onuserdef"
+  },
+  "SkillList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 15
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 20
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 15
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "SoundSetFile": {
+    "type": "word",
+    "value": 443
+  },
+  "SpecAbilityList": {
+    "type": "list",
+    "value": []
+  },
+  "StartingPackage": {
+    "type": "byte",
+    "value": 88
+  },
+  "Str": {
+    "type": "byte",
+    "value": 3
+  },
+  "Subrace": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "bb_rgrub1"
+  },
+  "Tail_New": {
+    "type": "dword",
+    "value": 0
+  },
+  "TemplateList": {
+    "type": "list",
+    "value": []
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "bb_rgrub1"
+  },
+  "WalkRate": {
+    "type": "int",
+    "value": 2
+  },
+  "willbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Wings_New": {
+    "type": "dword",
+    "value": 0
+  },
+  "Wis": {
+    "type": "byte",
+    "value": 10
+  }
+}

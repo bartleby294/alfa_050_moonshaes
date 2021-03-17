@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 850
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 850
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nPure alexandrite falls to the group called \"cats eyes\" and make particularly stunning signet rings and are a powerful display of a unique sense of style. In the cat's-eye form, fine quality Alexandrite should be semi-transparent with a sharp exhibition of the white eye\nThis polished gemstone takes on a strong brilliant green hue when under indirect sunlight but turns purple / red when exposed to candlelight. its pure form enhance the vibrant colouring these stones are known for \n\nLORE:\nAlexandrite is commonly said to enhance the rebirth of inner and outer self and to promote awareness.\nSome loretellers claim that all alexandrites comes from the body of the oldest son of Silvanus, the Forest Father. A common nursery rhyme goes \"Silvanus' wife went mad one night, murdering her child by candlelight.\" "
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Alexandrite -pure"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 38
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_088"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_088"
+  }
+}

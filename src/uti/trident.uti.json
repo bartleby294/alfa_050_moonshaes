@@ -1,0 +1,89 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 4
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 95
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 6
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "A three-pronged spear.  Often used for spear-fishing or fighting sea creatures.  Embossed on the base of the shaft is an inscription \"Corwell Arms, Isle of Gwynneth\""
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "A three-pronged spear.  Often used for spear-fishing or fighting sea creatures.\nEmbossed on the base of the shaft is an inscription \"Corwell Arms, Isle of Gwynneth\""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Trident"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 41
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 13
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 51
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "Trident"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "trident"
+  }
+}

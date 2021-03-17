@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 50
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 50
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nPeridot's subtle and scintillating green tones range from pale yellowish green into a pleasant olive green. Also known as the \"evening emerald\" since its green appears to be more intense in reduced light. Because of the way peridot splits and bends the rays of light passing through it, it has a velvety, \"sleepy\" appearance - a shining rich glow, and a slightly greasy luster. \nLORE:\nit is belived to removes stress, fear, guilt, activates personal growth and by some it have the power to even show hidden ways and concealed doors"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Peridot"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 39
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_057"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_057"
+  }
+}

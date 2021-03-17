@@ -1,0 +1,83 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Curst is simply a template, found in Monsters of Faerun, page 87 (and the 5th level warrior this comes with is the \"sample\" shown there).  An important note is that while they can be defeated in combat, they tend to come back, even from DUST, after a few days.  While 1hp/hour should be their normal regen rate, used Bioware default of 1hp/round.  Their spell resistance also escalates by their character level, so edit the Creature Skin if you level one of these up."
+    }
+  },
+  "Description": {
+    "id": 13026,
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 13025,
+    "type": "cexolocstring",
+    "value": {
+      "0": "OOC Curst Props"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 2
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 53
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "bb_curstbook"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "bb_curstbook"
+  }
+}

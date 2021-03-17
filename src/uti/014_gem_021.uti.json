@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 10
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Obsidian, also known as natural glass or volcanic glass, comes in different grades and varieties, some more prized than others. Low grade obsidian, called pitchstone, is not as shiny or smooth as gem quality obsidian but is useful for grinding and abrading.  A variety called blacksmoke obsidian is primarily found in Tashalar, sold in the local bazaars.A rare form of obsidian, called rainbow obsidian, is considered a semi-precious stone.\n\nVolcanic in origin, obsidian is a hard, black, glassy stone with a natural sheen. Common obsidian can be chipped into arrowheads, cutting blades, or even weapons if large enough. As an ornamental stone, it is usually tumbled, polished into smooth cabochons, or carved into figurines and fingerbowls. It was often worn as jewelry or inlaid on bracers or pectorals of copper or bronze. Package handlers in Waterdeep wear obsidian rings with a cutting edge on the inside for snipping twine."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Obsidian"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 36
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "014_gem_021"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "014_gem_021"
+  }
+}

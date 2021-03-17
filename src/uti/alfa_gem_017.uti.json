@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 25
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 25
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\na stone that comes in a varity of colors and shapes and often seen in jewellery of average quality\nLORE:\nGarnets are believed to contain both protective and destructive elements. The Crusaders set Garnets into their body armor, believing the protective power of the stones would lead them to safety. Conversely, some cultures added Garnets to arrowheads and bullets, believing its destructive power would greatly amplify the enormity of a wound.\nsome sages simply say garnets twist the imaginations of the owner"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Garnet -brown-green"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 41
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_017"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_017"
+  }
+}

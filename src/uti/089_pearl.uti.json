@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 100
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 100
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "An opaque lustrous white sphere formed by aquatic creatures. Sometimes yellow or pink, sometimes gold or silver. \n\nPearls are considered sacred by followers of Deep Sashelas and Dugmaren Brightmantle--appropriate for sacrifice, or to be consecrated for use, or recognized as boons or omens when found. Specifically, white pearls are sacred to followers of Savras, and black pearls are sacred to followers of Shargaas and Vhaeraun."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Pearl"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 56
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "089_pearl"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "089_pearl"
+  }
+}

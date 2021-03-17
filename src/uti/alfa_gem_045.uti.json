@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 5000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nKing's Tears are very rare and they are sometimes called frozen tears. Clear, teardrop-shaped and smooth surfaced. diamondcutters is a name used among jewellers and they totally unbreakable so far by any means.\nLORE:\nThese stones are said to be the crystallized tears of long-dead necromancer kings. In each gem can be seen who the weeping king loved long ago. Their true nature is unknown but suffice it to say that sages and collectors prize these gems above all others."
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "King's Tears"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 5
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_045"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_045"
+  }
+}

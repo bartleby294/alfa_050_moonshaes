@@ -1,0 +1,221 @@
+{
+  "__data_type": "UTP ",
+  "AnimationState": {
+    "type": "byte",
+    "value": 0
+  },
+  "Appearance": {
+    "type": "dword",
+    "value": 7
+  },
+  "AutoRemoveKey": {
+    "type": "byte",
+    "value": 0
+  },
+  "BodyBag": {
+    "type": "byte",
+    "value": 0
+  },
+  "CloseLockDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "Chest - Low Treasure (Create a copy of this chest and rename it. Change the lock and trap settings. Give it a unique TAG. Get the resref and spawn this chest in...it will generate random loot from the LOOT_915 loot merchant. See Loot Merchant area and open the LOOT_915 store to check exact contents. It contains valuables between 100-300 gp value.)\r\n\r\nThe NESS waypoint TAG will be the resref of the chest you create.\r\nThe NESS name might be something like: SP_PL0T00_LT501A100B10C1_PC01_SD60\r\n\r\nKeep the chest as plot. It can be bashed open as a Strength check."
+  },
+  "Conversation": {
+    "type": "resref",
+    "value": ""
+  },
+  "CurrentHP": {
+    "type": "short",
+    "value": 20
+  },
+  "Description": {
+    "id": 14594,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Bound in iron and with a heavy lock, this heavy chest was obviously meant to protect something of value."
+    }
+  },
+  "DisarmDC": {
+    "type": "byte",
+    "value": 28
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 4
+  },
+  "Fort": {
+    "type": "byte",
+    "value": 16
+  },
+  "Hardness": {
+    "type": "byte",
+    "value": 5
+  },
+  "HasInventory": {
+    "type": "byte",
+    "value": 1
+  },
+  "HP": {
+    "type": "short",
+    "value": 20
+  },
+  "Interruptable": {
+    "type": "byte",
+    "value": 0
+  },
+  "KeyName": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "KeyRequired": {
+    "type": "byte",
+    "value": 0
+  },
+  "Lockable": {
+    "type": "byte",
+    "value": 0
+  },
+  "Locked": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocName": {
+    "id": 5348,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Chest (locked and trapped)"
+    }
+  },
+  "OnClick": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnClosed": {
+    "type": "resref",
+    "value": "cs_chest_onclose"
+  },
+  "OnDamaged": {
+    "type": "resref",
+    "value": "cs_chest_ondmg"
+  },
+  "OnDeath": {
+    "type": "resref",
+    "value": "cs_chest_ondeath"
+  },
+  "OnDisarm": {
+    "type": "resref",
+    "value": "cu_trap_hixp"
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": "cs_chest_hb"
+  },
+  "OnInvDisturbed": {
+    "type": "resref",
+    "value": "cs_chest_ondist"
+  },
+  "OnLock": {
+    "type": "resref",
+    "value": "cs_chest_onlock"
+  },
+  "OnMeleeAttacked": {
+    "type": "resref",
+    "value": "cs_chest_onphy"
+  },
+  "OnOpen": {
+    "type": "resref",
+    "value": "cs_chest_onopen"
+  },
+  "OnSpellCastAt": {
+    "type": "resref",
+    "value": "cs_chest_onspell"
+  },
+  "OnTrapTriggered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUnlock": {
+    "type": "resref",
+    "value": "cs_chest_onunloc"
+  },
+  "OnUsed": {
+    "type": "resref",
+    "value": "cs_chest_onused"
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": "cs_chest_onusd"
+  },
+  "OpenLockDC": {
+    "type": "byte",
+    "value": 32
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 20
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 365
+  },
+  "Ref": {
+    "type": "byte",
+    "value": 5
+  },
+  "Static": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "loot915"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "loot915"
+  },
+  "TrapDetectable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapDetectDC": {
+    "type": "byte",
+    "value": 15
+  },
+  "TrapDisarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapFlag": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapOneShot": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapType": {
+    "type": "byte",
+    "value": 37
+  },
+  "Type": {
+    "type": "byte",
+    "value": 0
+  },
+  "Useable": {
+    "type": "byte",
+    "value": 1
+  },
+  "Will": {
+    "type": "byte",
+    "value": 0
+  }
+}

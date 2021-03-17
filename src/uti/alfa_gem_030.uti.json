@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 50
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 50
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nFlourspar or flourite. A common but beautiful gem, it comes in many colors - each of them nicely set off by the stones' glossy luster. Best known in its purple hues, which are commonly mistaken for amethyst, flourspar is the much softer of the two and will scratch, chip, and even burn easily.\nKnown as the \"most colorful gem in the world\"\nLORE:\nsaid to hide the real look and intention of the owner and for this a popular gem among roughs and thiefs willing to risk a compleat change of personality, for such is the power in this gem if some storys are to hold trute"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Fluorospar"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 26
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_030"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_030"
+  }
+}

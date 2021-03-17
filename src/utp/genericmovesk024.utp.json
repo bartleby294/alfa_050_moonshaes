@@ -1,0 +1,219 @@
+{
+  "__data_type": "UTP ",
+  "AnimationState": {
+    "type": "byte",
+    "value": 0
+  },
+  "Appearance": {
+    "type": "dword",
+    "value": 95
+  },
+  "AutoRemoveKey": {
+    "type": "byte",
+    "value": 0
+  },
+  "BodyBag": {
+    "type": "byte",
+    "value": 0
+  },
+  "CloseLockDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "PHB Movement Skills\r\nby OldManWhistler\r\n\r\nhttp://nwvault.ign.com/portfolios/data/1054937958.shtml\r\n\r\nSee documentation for guidelines from the PHB about how to calculate DCs. You will need to change the NAME and TAG of this object to use it.\r\n\r\nNAME: This is the description displayed to the player when they use it.\r\nTAG: Has format SKILL_DC_WP_DMG\r\n\r\nSKILL: number 1 to 5.\r\n1 Balance\r\n2 Climb\r\n3 Jump\r\n4 Swim\r\n5 Tight Space\r\n\r\nDC: number, the difficulty check to beat.\r\n\r\nWP: string, tag of the destination waypoint. YOU CANNOT USE _ IN THE TAG OF THE WAYPOINT! It will screw up the argument processing.\r\nIf no WP is specified, then it will look for the nearest object with the same tag (thus, waypoints are not needed if you always used matched pairs)\r\n\r\nDMG: number, maximum amount of random damage to deal on critical failure.\r\n\r\nSKILL DESCRIPTIONS\r\n\r\nBalance - uses DEX, affected by Armor Check Penalty, +2 synergy with 5 ranks of Tumble skill. \r\nClimb - uses STR, affected by Armor Check Penalty. \r\nJump - uses STR, affected by Armor Check Penalty, +2 synergy with 5 ranks of Tumble skill, +1 skill point for every +10% movement speed. \r\nSwim - uses STR, -1 skill for every 5lb of weight character has. \r\nTight Space - uses DEX, affected by creature size and Armor Check Penalty. (NOTE: this skill diverges from the PHB) \r\n\r\nFailing a Balance/Climb/Jump check by more than 5 means you take falling damage. Succeeding against a DC15 Tumble check reduces the falling damage. \r\nFailing a Swim check by more than 5 means you take drowning damage. Drowning damage cannot kill you. \r\nFailing a Tight Space check by more than 5 means that you damage yourself on the attempt. This damage cannot kill you. "
+  },
+  "Conversation": {
+    "type": "resref",
+    "value": ""
+  },
+  "CurrentHP": {
+    "type": "short",
+    "value": 100
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "DisarmDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "Fort": {
+    "type": "byte",
+    "value": 0
+  },
+  "Hardness": {
+    "type": "byte",
+    "value": 0
+  },
+  "HasInventory": {
+    "type": "byte",
+    "value": 0
+  },
+  "HP": {
+    "type": "short",
+    "value": 100
+  },
+  "Interruptable": {
+    "type": "byte",
+    "value": 1
+  },
+  "KeyName": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "KeyRequired": {
+    "type": "byte",
+    "value": 0
+  },
+  "Lockable": {
+    "type": "byte",
+    "value": 0
+  },
+  "Locked": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "(TS10) A small space."
+    }
+  },
+  "OnClick": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnClosed": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDamaged": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDeath": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnDisarm": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnInvDisturbed": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnLock": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnMeleeAttacked": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnOpen": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnSpellCastAt": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnTrapTriggered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUnlock": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUsed": {
+    "type": "resref",
+    "value": "phb_moveskill"
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": ""
+  },
+  "OpenLockDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 4
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 453
+  },
+  "Ref": {
+    "type": "byte",
+    "value": 0
+  },
+  "Static": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "5_10_PHBMSNODEST_0"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "genericmovesk024"
+  },
+  "TrapDetectable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapDetectDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapDisarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapFlag": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapOneShot": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapType": {
+    "type": "byte",
+    "value": 0
+  },
+  "Type": {
+    "type": "byte",
+    "value": 0
+  },
+  "Useable": {
+    "type": "byte",
+    "value": 1
+  },
+  "Will": {
+    "type": "byte",
+    "value": 0
+  }
+}
