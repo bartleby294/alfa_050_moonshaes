@@ -379,6 +379,28 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
+                "value": "Disturbed Earth"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ms_treasure_eart"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Disturbed Sand"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ms_treasure_sand"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
                 "value": "Don't delete this guy.  He is used to adjust the faction of doppelgangers."
               },
               "RESREF": {
@@ -12806,6 +12828,17 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "witcherplc162"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Sideboard - Witcher"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "witcherplc387"
                     }
                   },
                   {
@@ -31620,17 +31653,6 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "witcherplc386"
-                    }
-                  },
-                  {
-                    "__struct_id": 0,
-                    "NAME": {
-                      "type": "cexostring",
-                      "value": "Sideboard - Witcher"
-                    },
-                    "RESREF": {
-                      "type": "resref",
-                      "value": "witcherplc387"
                     }
                   },
                   {

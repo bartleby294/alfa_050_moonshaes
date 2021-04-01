@@ -60,7 +60,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 1
+                "value": 3
               },
               "IsChild": {
                 "type": "byte",
@@ -69,6 +69,25 @@
             },
             {
               "__struct_id": 1,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 1
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 2,
               "Active": {
                 "type": "resref",
                 "value": "cornquestnoready"
@@ -135,55 +154,6 @@
         },
         "RepliesList": {
           "type": "list",
-          "value": []
-        },
-        "Script": {
-          "type": "resref",
-          "value": "_cornreward"
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Speaker": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "*condescendingly* Oh well done you. Your reward. *hands over the gold*\n\nGood luck finding anything worth spending it on within a thousand leagues!"
-          }
-        }
-      },
-      {
-        "__struct_id": 2,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "RepliesList": {
-          "type": "list",
           "value": [
             {
               "__struct_id": 0,
@@ -221,12 +191,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Yes, hello, this better be about business! Sick of the yokels round here yammering on about their sick sheep or their, their flakey hut mud. *sneers* You know."
+            "0": "*sighs dramatically* Don't you listen? You're as bad as all the rest of these hay-eared yokels! Like I said, you need to head straight down the south road, you'll come to Mitcham's farm. Speak to Mitcham, and bring back <StartCheck>as many heads of corn as you can rescue from those raiders</Start> I keep hearing about. I'll shell out for any corn you bring to me, you lucky so-and-so. \n\nNow get on and do it you lazy fool! I need to get off this cursed island!!"
           }
         }
       },
       {
-        "__struct_id": 3,
+        "__struct_id": 2,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -253,69 +223,11 @@
         },
         "RepliesList": {
           "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 8
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 1,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 7
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 2,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 3
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
-            }
-          ]
+          "value": []
         },
         "Script": {
           "type": "resref",
-          "value": ""
+          "value": "_cornreward"
         },
         "Sound": {
           "type": "resref",
@@ -328,12 +240,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Business! Just said so didn't I? *glares around the marketplace* This is what happens when one spends too long around the wildmen, hrmph! Scrape the moss out of your ears."
+            "0": "*condescendingly* Oh well done you. Your reward. *hands over the gold*\n\nGood luck finding anything worth spending it on within a thousand leagues!"
           }
         }
       },
       {
-        "__struct_id": 4,
+        "__struct_id": 3,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -397,12 +309,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "*snobby* Who's even asking? Nosy cad."
+            "0": "Yes, hello, this better be about business! Sick of the yokels round here yammering on about their sick sheep or their, their flakey hut mud. *sneers* You know."
           }
         }
       },
       {
-        "__struct_id": 5,
+        "__struct_id": 4,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -442,6 +354,44 @@
               },
               "Index": {
                 "type": "dword",
+                "value": 9
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 1,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 8
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 2,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
                 "value": 5
               },
               "IsChild": {
@@ -466,12 +416,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Huh. If you really must know, I'm stuck here. Marooned, you might say. A deal went south and now I haven't the coin to return to the continent, and civilisation. Gods how I long for decent conversation! Food that tastes of something! Respect and dignity, for the heaven's sakes!"
+            "0": "Business! Just said so didn't I? *glares around the marketplace* This is what happens when one spends too long around the wildmen, hrmph! Scrape the moss out of your ears."
           }
         }
       },
       {
-        "__struct_id": 6,
+        "__struct_id": 5,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -535,7 +485,76 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "*sniffs, still sounding aggrieved* Agricultural trade. Only real coin to be made around here. Unless you can break into the raiding and or banditry trade, but I haven't the training. \n\n*appraising stare* You look like the enterprising type. Why not source me some produce? The farms up north have dried up lately, heard there's security issues, hrmph.\n\nHave a gander and sort it all out, and I'll make it worth your while."
+            "0": "*snobby* Who's even asking? Nosy cad."
+          }
+        }
+      },
+      {
+        "__struct_id": 6,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "RepliesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 7
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Speaker": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Huh. If you really must know, I'm stuck here. Marooned, you might say. A deal went south and now I haven't the coin to return to the continent, and civilisation. Gods how I long for decent conversation! Food that tastes of something! Respect and dignity, for the heaven's sakes!"
           }
         }
       },
@@ -584,7 +603,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "I don't think so. Why don't you have a go yourself?"
+            "0": "Same to you!"
           }
         }
       },
@@ -616,7 +635,46 @@
         },
         "RepliesList": {
           "type": "list",
-          "value": []
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 11
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 1,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 10
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
         },
         "Script": {
           "type": "resref",
@@ -633,7 +691,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Capital. Head up the Highland Way and speak to Mitcham at the farm. Bring back any produce you can rescue and I'll shell out for it, you lucky so-and-so. Farmers! It grows right out of the damn ground for goodness sakes! How hard can the job possibly be?\n\nRight, haven't got all day, be off with you! *dismissive gestures*"
+            "0": "*sniffs, still sounding aggrieved* Agricultural trade. Only real coin to be made around here. Unless you can break into the raiding and or banditry trade, but I haven't the training. \n\n*appraising stare* You look like the enterprising type. Why not source me some crop? The farms down south have dried up lately, heard there's security issues, <StartCheck>raiders</Start> of some sort, hrmph.\n\nHave a gander and sort it all out, and I'll make it worth your while."
           }
         }
       },
@@ -682,144 +740,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Same to you!"
-          }
-        }
-      },
-      {
-        "__struct_id": 10,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "RepliesList": {
-          "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 10
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
-            },
-            {
-              "__struct_id": 1,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 9
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
-            }
-          ]
-        },
-        "Script": {
-          "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Speaker": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "*sniffs, still sounding aggrieved* Agricultural. Only real coin to be made around here. Unless you can break into the raiding and or banditry trade, but I haven't the training. \n\n*appraising stare* You look like the enterprising type. Why not source me some crop? The farms up north have dried up lately, heard there's security issues, hrmph.\n\nHave a gander and sort it all out, and I'll make it worth your while."
-          }
-        }
-      },
-      {
-        "__struct_id": 11,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "RepliesList": {
-          "type": "list",
-          "value": []
-        },
-        "Script": {
-          "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Speaker": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "Capital. Head up the Highland Way and speak to Mitcham at the farm. Bring back any produce you can rescue and I'll shell out for it, you lucky so-and-so. Farmers! It grows right out of the damn ground for goodness sakes! How hard can the job possibly be?\n\nRight, haven't got all day, be off with you! *dismissive gestures*"
+            "0": "Capital. Head straight down the south road, you'll come to Mitcham's farm. Speak to Mitcham, and bring back <StartCheck>as many heads of corn as you can rescue from those raiders</Start> I keep hearing about. I'll shell out for any corn you bring to me, you lucky so-and-so. \n\nFarmers! It grows right out of the damn ground for goodness sakes! How hard can the job possibly be?\n\nRight, haven't got all day, be off with you! *dismissive gestures*"
           }
         }
       }
@@ -827,7 +748,7 @@
   },
   "NumWords": {
     "type": "dword",
-    "value": 519
+    "value": 496
   },
   "PreventZoomIn": {
     "type": "byte",
@@ -942,12 +863,57 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Yes. Here you are. *hands over the corn in bushels*"
+            "0": "Where was that farm again? And what was it you wanted me to do?"
           }
         }
       },
       {
         "__struct_id": 2,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": []
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "All right all right, I'm on it."
+          }
+        }
+      },
+      {
+        "__struct_id": 3,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -983,7 +949,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 3
+                "value": 2
               },
               "IsChild": {
                 "type": "byte",
@@ -1007,12 +973,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "You don't seem too enamoured with the isles. Why are you here?"
+            "0": "Yes. Here you are. *hands over the corn in bushels*"
           }
         }
       },
       {
-        "__struct_id": 3,
+        "__struct_id": 4,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1072,12 +1038,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "No really, what exactly is keeping you here?"
+            "0": "You don't seem too enamoured with the isles. Why are you here?"
           }
         }
       },
       {
-        "__struct_id": 4,
+        "__struct_id": 5,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1137,12 +1103,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Oh come on now. You can't expect folk not to be curious after all that."
+            "0": "No really, what exactly is keeping you here?"
           }
         }
       },
       {
-        "__struct_id": 5,
+        "__struct_id": 6,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1202,12 +1168,146 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
+            "0": "Oh come on now. You can't expect folk not to be curious after all that."
+          }
+        }
+      },
+      {
+        "__struct_id": 7,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 8
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 1
+              },
+              "LinkComment": {
+                "type": "cexostring",
+                "value": ""
+              }
+            }
+          ]
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
             "0": "What's your plan for getting home then?"
           }
         }
       },
       {
-        "__struct_id": 6,
+        "__struct_id": 8,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 7
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Too rude, you can get lost."
+          }
+        }
+      },
+      {
+        "__struct_id": 9,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1249,25 +1349,6 @@
                 "type": "byte",
                 "value": 0
               }
-            },
-            {
-              "__struct_id": 1,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 7
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
             }
           ]
         },
@@ -1277,7 +1358,7 @@
         },
         "Script": {
           "type": "resref",
-          "value": "cornqueststart"
+          "value": ""
         },
         "Sound": {
           "type": "resref",
@@ -1286,12 +1367,57 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Fine. Whatever it takes to you back on the other side of the ocean."
+            "0": "What business is that?"
           }
         }
       },
       {
-        "__struct_id": 7,
+        "__struct_id": 10,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": []
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "I don't think so. Why don't you have a go yourself."
+          }
+        }
+      },
+      {
+        "__struct_id": 11,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1342,181 +1468,6 @@
         },
         "Script": {
           "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "Too rude, you can get lost."
-          }
-        }
-      },
-      {
-        "__struct_id": 8,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "EntriesList": {
-          "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 10
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
-            }
-          ]
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Script": {
-          "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "What business is that?"
-          }
-        }
-      },
-      {
-        "__struct_id": 9,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "EntriesList": {
-          "type": "list",
-          "value": []
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Script": {
-          "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "I don't think so. Why don't you have a go yourself."
-          }
-        }
-      },
-      {
-        "__struct_id": 10,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "EntriesList": {
-          "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 11
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
-            }
-          ]
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Script": {
-          "type": "resref",
           "value": "cornqueststart"
         },
         "Sound": {
@@ -1526,7 +1477,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Wouldn't want the townsfolk going hungry. Very well."
+            "0": "Wouldn't want the townsfolk going hungry. Very well. What do I do?"
           }
         }
       }
@@ -1547,7 +1498,7 @@
         },
         "Index": {
           "type": "dword",
-          "value": 2
+          "value": 3
         }
       },
       {

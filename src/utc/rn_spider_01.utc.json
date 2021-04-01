@@ -82,7 +82,7 @@
         "__struct_id": 16384,
         "EquippedRes": {
           "type": "resref",
-          "value": "074_tinyspidbite"
+          "value": "tinybite"
         }
       },
       {

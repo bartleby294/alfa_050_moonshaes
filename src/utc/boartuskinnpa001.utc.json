@@ -331,7 +331,7 @@
   },
   "ScriptHeartbeat": {
     "type": "resref",
-    "value": "x2_def_heartbeat"
+    "value": "_red_stag_hb_01"
   },
   "ScriptOnBlocked": {
     "type": "resref",
@@ -347,7 +347,7 @@
   },
   "ScriptSpawn": {
     "type": "resref",
-    "value": "cs_cvs_stay_sit"
+    "value": "x2_def_spawn"
   },
   "ScriptSpellAt": {
     "type": "resref",

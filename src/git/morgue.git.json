@@ -2172,7 +2172,7 @@
         },
         "XOrientation": {
           "type": "float",
-          "value": -0.0001
+          "value": -0.0002
         },
         "XPosition": {
           "type": "float",

@@ -54,7 +54,7 @@
   },
   "DecayTime": {
     "type": "dword",
-    "value": 0
+    "value": 5000
   },
   "Deity": {
     "type": "cexostring",
@@ -82,7 +82,7 @@
         "__struct_id": 16384,
         "EquippedRes": {
           "type": "resref",
-          "value": "074_medspidbite"
+          "value": "074_tinyspidbite"
         }
       },
       {
@@ -162,6 +162,30 @@
   "IsPC": {
     "type": "byte",
     "value": 0
+  },
+  "ItemList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Dropable": {
+          "type": "byte",
+          "value": 1
+        },
+        "InventoryRes": {
+          "type": "resref",
+          "value": "item"
+        },
+        "Repos_PosX": {
+          "type": "word",
+          "value": 0
+        },
+        "Repos_Posy": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
   },
   "LastName": {
     "type": "cexolocstring",

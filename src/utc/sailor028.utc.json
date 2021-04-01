@@ -134,7 +134,7 @@
   },
   "Conversation": {
     "type": "resref",
-    "value": "_sailor_con_03"
+    "value": ""
   },
   "CRAdjust": {
     "type": "int",
@@ -357,7 +357,7 @@
   },
   "Phenotype": {
     "type": "int",
-    "value": 3
+    "value": 16
   },
   "Plot": {
     "type": "byte",
@@ -679,7 +679,7 @@
   },
   "SoundSetFile": {
     "type": "word",
-    "value": 1
+    "value": 418
   },
   "SpecAbilityList": {
     "type": "list",

@@ -42,7 +42,7 @@
   },
   "Conversation": {
     "type": "resref",
-    "value": "_btb_dm_bandacti"
+    "value": "ms_set_banditlvl"
   },
   "CRAdjust": {
     "type": "int",

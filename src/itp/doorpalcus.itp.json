@@ -387,6 +387,17 @@
                   },
                   {
                     "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dark Wooden Door (key locked)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_wood004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
                     "RESREF": {
                       "type": "resref",
                       "value": "nw_door_hills"
@@ -504,6 +515,17 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "engraved_door"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door Key Locked"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_fancy001"
                     }
                   },
                   {
@@ -647,6 +669,17 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "spanish_door"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Spanish Door Key Locked"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "spanish_door001"
                     }
                   },
                   {

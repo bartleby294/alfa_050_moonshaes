@@ -2,7 +2,7 @@
   "__data_type": "UTI ",
   "AddCost": {
     "type": "dword",
-    "value": 46
+    "value": 36
   },
   "BaseItem": {
     "type": "int",
@@ -18,7 +18,7 @@
   },
   "Cost": {
     "type": "dword",
-    "value": 50
+    "value": 40
   },
   "Cursed": {
     "type": "byte",
@@ -27,13 +27,13 @@
   "DescIdentified": {
     "type": "cexolocstring",
     "value": {
-      "0": "Rubbing this stinky green paste into wounds promotes rapid healing. Applying the salve is a full-round action. One dose cures 1d8 points of damage to a living creature. Only one dose may be applied per round, and there is no limit on how many salves can be applied over time."
+      "0": "Rubbing this stinky green paste into wounds, and rapidly wrapping the wounds with bandages, promotes rapid healing. This requires two people to see to a wound; one to apply the paste and the other to quickly apply the bandages before the substance hardens and forms a brittle layer. \n\nApplying the salve is a full-round action. One dose cures 1d8 points of damage to a living creature. Only one dose may be applied per round, and there is no limit on how many salves can be applied over time."
     }
   },
   "Description": {
     "type": "cexolocstring",
     "value": {
-      "0": "Rubbing this stinky green paste into wounds promotes rapid healing. Applying the salve is a full-round action. One dose cures 1d8 points of damage to a living creature. Only one dose may be applied per round, and there is no limit on how many salves can be applied over time."
+      "0": "Rubbing this stinky green paste into wounds, and rapidly wrapping the wounds with bandages, promotes rapid healing. This requires two people to see to a wound; one to apply the paste and the other to quickly apply the bandages before the substance hardens and forms a brittle layer. \n\nApplying the salve is a full-round action. One dose cures 1d8 points of damage to a living creature. Only one dose may be applied per round, and there is no limit on how many salves can be applied over time."
     }
   },
   "Identified": {

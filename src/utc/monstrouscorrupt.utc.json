@@ -85,13 +85,6 @@
         }
       },
       {
-        "__struct_id": 32768,
-        "EquippedRes": {
-          "type": "resref",
-          "value": "it_crewpsp019"
-        }
-      },
-      {
         "__struct_id": 65536,
         "EquippedRes": {
           "type": "resref",
@@ -564,7 +557,7 @@
   },
   "Str": {
     "type": "byte",
-    "value": 20
+    "value": 16
   },
   "Subrace": {
     "type": "cexostring",

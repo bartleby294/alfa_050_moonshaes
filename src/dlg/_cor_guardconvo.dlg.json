@@ -122,7 +122,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "*nods sternly to you* <QuarterDay>. If'n ye be venturin' out intae the country, watch fer bandits ye hear? They be even sighted on some o' thae roads these days *grimaces and shakes his head*"
+            "0": "*nods sternly to you* <QuarterDay>. If'n ye be venturin' off tha roads intae the country, watch fer bandits ye hear? They be even sighted on some o' thae roads too these days... *grimaces and shakes his head* so ye best watch yerself if yer goin further out than O'Malley ta the east. An be right wary o' the roads when yer gettin close ta Pontswain in tha west too. "
           }
         }
       },
@@ -210,7 +210,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Work? Speak wit' Eamon a' thae Red Stag. Big ol' inn at the north end o' the docks, ye can't miss it. Eamon, 'e usually knows where tae find thae kind o' work yer sort be lookin' for *frowns a bit at you*\n\nOh, an there's a bloke a' the market, poncy type from foreign parts, ah heard 'e's a-lookin' fer folks tae help 'im out. Some trouble a' a farm down south ah heard."
+            "0": "Work? Speak wit' Eamon a' thae Red Stag. Big ol' inn at the north end o' the docks, ye can't miss it. Eamon, 'e usually knows where tae find thae kind o' work yer sort be lookin' for *frowns a bit at you*\n\nElsewise sometime those traders a' thae market be looking fer a hand wit' somethin, or folks in thae taverns. Ye never know.\n\nActually, there be one bloke at the market, poncy type from foreign parts, ah heard 'e's a-lookin' fer folks tae help 'im out. Some trouble a' a farm down south ah heard."
           }
         }
       },
@@ -600,7 +600,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "South? Lowhill be south, right on thae edge o' the city - them hins be livin' there. \n\nThae main road tha' leads south runs past Lowhill tho. Thae highland way some call it, tho' I dinnae why, after all the mountains be north o' the city, no south! Anyhoo, south ye'll find the farm o' a man called Micham, he's a troubled sort, in need o' some help with some creatures raidin' his crops or sommat so they say.\n\nKeep goin south past Micham's farm tho', an ye'll come tae the Llyrath Forest. Dark part o' the forest, tha', no like the eastern parts 'round the Dafyd Heights. Steer well clear, if ye 'ave any nouse at all!\n\nIf ye were tae make it through Llyrath, ye'll find yerself a' the southern coast in no time. Bu' ye'll be ded, so no much use in tryin' tha, eh?\n\nRight south-east o' the city, ye'll find cantrev Dynnatt. Yokels down there, thae lot o' em, am tellin 'ye."
+            "0": "South? Lowhill be south, right on thae edge o' the city - them hins be livin' there. \n\nThae main road tha' leads south runs past Lowhill tho. Beyond tha', south ye'll find the farm o' a man called Micham, he's a troubled sort, 'e be in need o' some help with some creatures raidin' his crops or sommat, so they say.\n\nKeep goin south past Micham's farm tho', an ye'll come tae the middle o' thae Llyrath Forest. Dark part o' the forest, tha', no like thae nicer eastern parts 'round the Dafyd Heights. Steer well clear, if ye 'ave any nouse at all!\n\nIf ye were tae make it through Llyrath, ye'll find yerself a' the southern coast in no time. Bu' ye'll be ded, so no much use in tryin' tha, eh?\n\nRight south-east o' the city, ye'll find cantrev Dynnatt. Yokels down there, thae lot o' em, am tellin 'ye."
           }
         }
       },
@@ -696,7 +696,7 @@
   },
   "NumWords": {
     "type": "dword",
-    "value": 785
+    "value": 828
   },
   "PreventZoomIn": {
     "type": "byte",

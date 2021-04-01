@@ -54,7 +54,7 @@
   },
   "DecayTime": {
     "type": "dword",
-    "value": 5000
+    "value": 100000
   },
   "Deity": {
     "type": "cexostring",

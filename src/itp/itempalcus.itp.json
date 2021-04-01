@@ -3072,6 +3072,17 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "Small Chest"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "randtreaschesite"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Small Mouth Bass"
                     },
                     "RESREF": {
@@ -14328,6 +14339,50 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "Calishite Linen"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "a00_clth_calis_a"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Calishite Silks"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "a00_clth_calis_b"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Calishite Silks"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "a00_clth_calis_c"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Calishite Silks"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "a00_clth_calis_d"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Captain's Garb"
                     },
                     "RESREF": {
@@ -16476,6 +16531,17 @@
                           },
                           "RESREF": {
                             "type": "resref",
+                            "value": "050_lshield_006"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Masterwork Large Shield"
+                          },
+                          "RESREF": {
+                            "type": "resref",
                             "value": "mk_shield_002"
                           }
                         },
@@ -16488,6 +16554,17 @@
                           "RESREF": {
                             "type": "resref",
                             "value": "mk_shield_1"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Masterwork Spiked Shield"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "043_shl_012"
                           }
                         },
                         {
@@ -17622,6 +17699,17 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "zep_cre_thornb"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Tiny bite"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "tinybite"
                     }
                   },
                   {
@@ -26416,6 +26504,28 @@
                           "__struct_id": 0,
                           "NAME": {
                             "type": "cexostring",
+                            "value": "Quickfinger Ring"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "quickfingerri001"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Quickfinger Ring"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "quickfingerring"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
                             "value": "Quicksilver Ring"
                           },
                           "RESREF": {
@@ -27076,6 +27186,17 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "050_container006"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Bolt of Silk"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "boltofsilk"
                     }
                   },
                   {
@@ -29920,6 +30041,39 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
+                "value": "Cmdr. Vermis's Note"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item020"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Cregar's stamped writ"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item019"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Cregar's writ"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item018"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
                 "value": "Deer Hide"
               },
               "RESREF": {
@@ -29953,6 +30107,17 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
+                "value": "Hunters' supplies"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item017"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
                 "value": "Mandible of the Lurker"
               },
               "RESREF": {
@@ -29980,6 +30145,17 @@
               "RESREF": {
                 "type": "resref",
                 "value": "monstrouscorrupt"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Parcel of leather goods"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "parcelofleatherg"
               }
             },
             {
@@ -38708,6 +38884,17 @@
                           "RESREF": {
                             "type": "resref",
                             "value": "mk_mk_34"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Mighty Composite Longbow +1"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "043_colbowii_002"
                           }
                         },
                         {

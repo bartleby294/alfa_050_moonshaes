@@ -4,6 +4,91 @@ float getFacing(vector centerPoint, vector otherPoint) {
                                 0.0));
 }
 
+int GetArmorBaseACValue(object oArmor)
+{
+    // Get the appearance of the torso slot
+    int nAppearance = GetItemAppearance(oArmor, ITEM_APPR_TYPE_ARMOR_MODEL, ITEM_APPR_ARMOR_MODEL_TORSO);
+    // Look up in parts_chest.2da the relevant line, which links to the actual AC bonus of the armor
+    // We cast it to int, even though the column is technically a float.
+    int nAC = StringToInt(Get2DAString("parts_chest", "ACBONUS", nAppearance));
+
+    // 0 None
+    // 1 Padded
+    // 2 Leather
+    // 3 Studded Leather / Hide
+    // 4 Chain Shirt / Scale Mail
+    // 5 Chainmail / Breastplate
+    // 6 Splint Mail / Banded Mail
+    // 7 Half-Plate
+    // 8 Full Plate
+
+    // Return the given AC value (0 to 8)
+    return nAC;
+}
+
+/**
+ * Why doesnt this already exist?
+ */
+float absFloat(float value) {
+    if(value < 0.0) {
+        return value * -1.0;
+    }
+    return value;
+}
+
+float randomFloat(int den, int num) {
+    float denominator = IntToFloat(Random(den) + 1);
+    float numerator = IntToFloat(Random(num) + 1);
+    return numerator/denominator;
+}
+
+int GetIsLocationWalkable(location loc) {
+
+    // Get the surface type
+    int nSurfaceType = GetSurfaceMaterial(loc);
+
+    // Is this waypoint on a valid, walkable, surface? Eg; we can spawn a creature
+    return StringToInt(Get2DAString("surfacemat", "Walk", nSurfaceType));
+}
+
+/**
+ *  Make sure we have valid heights around the location and that they valid
+ *  Locations.
+ */
+int isHeightWrong(location possibleStructureLoc){
+    vector possibleStructureVec = GetPositionFromLocation(possibleStructureLoc);
+    object oArea = GetAreaFromLocation(possibleStructureLoc);
+
+    float negx = GetGroundHeight(Location(oArea,
+                Vector(possibleStructureVec.x - 1.0,
+                        possibleStructureVec.y, 0.0), 0.0));
+
+    float negy = GetGroundHeight(Location(oArea,
+                Vector(possibleStructureVec.x,
+                        possibleStructureVec.y - 1.0, 0.0), 0.0));
+
+    float posx = GetGroundHeight(Location(oArea,
+            Vector(possibleStructureVec.x + 1.0,
+                    possibleStructureVec.y, 0.0), 0.0));
+
+    float posy = GetGroundHeight(Location(oArea,
+                Vector(possibleStructureVec.x,
+                        possibleStructureVec.y + 1.0, 0.0), 0.0));
+    // GetGroundHeight returns -6.0 for invalid locations.
+    if(negx == -6.0 || negx == -6.0 || negx == -6.0 ||negx == -6.0) {
+        return 1;
+    }
+
+    // if there is too much of a difference in height look for some where else.
+    if(absFloat(possibleStructureVec.z - negx) > 1.0
+        || absFloat(possibleStructureVec.z - negy) > 1.0
+        || absFloat(possibleStructureVec.z - posx) > 1.0
+        || absFloat(possibleStructureVec.z - posy) > 1.0) {
+            return 1;
+        }
+
+    return 0;
+}
 
 int AreaContainsObjectWithTag(string tag, object oArea){
     object firstObject = GetFirstObjectInArea(oArea);
@@ -132,16 +217,6 @@ location pickSpawnLoc(object oPC, object point, float offset, float rotation) {
             getFacing(pointVector, GetPositionFromLocation(loc)));
 
     return loc;
-}
-
-/**
- * Why doesnt this already exist?
- */
-float absFloat(float value) {
-    if(value < 0.0) {
-        return value * -1.0;
-    }
-    return value;
 }
 
 /** Given a creature and a tag return if it has at least one matching item in

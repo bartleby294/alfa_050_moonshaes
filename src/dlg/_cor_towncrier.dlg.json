@@ -148,7 +148,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 3
+                "value": 5
               },
               "IsChild": {
                 "type": "byte",
@@ -157,6 +157,25 @@
             },
             {
               "__struct_id": 1,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 3
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 2,
               "Active": {
                 "type": "resref",
                 "value": ""
@@ -191,7 +210,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Eh <boy/girl>? 'am doin the King's business, that's what! Tellin' his news and givin' his edicts. Who be ye, an' why ye be botherin' me?"
+            "0": "Eh <boy/girl>? 'am doin thae Prince's business, that's what! Tellin' his news and givin' his edicts. Who be ye, an' why ye be botherin' me?"
           }
         }
       },
@@ -260,7 +279,168 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "*he sighs, then straightens up from the fence and bellows* \n\nTHE GREAT BAT THREAT 'AS BEEN FOUGHT OFF BY THAE BRAVE MEN O' THE GUARDS, RUMOURS O' SPIDER INVASIONS FROM CURSED CAVERNS BE LIES AN' SEDITION, ALL PAY 'EED, THIS BE THE KING'S NEWS\n\n*he leans on his railing and eyes you again* 'appy now? Sod off."
+            "0": "*splutters* thae Prince, aye, thae Prince!! Be ye deaf an' blind boy! Prince Bryon Kendrick, first o' his name, Prince o' Corwell yer bleedin' ingrate! Son o' thae High Queen 'erself! *looks at you with contempt*"
+          }
+        }
+      },
+      {
+        "__struct_id": 3,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "RepliesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 7
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 1,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 6
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Speaker": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "*he sighs, then straightens up from the fence and bellows* \n\nTHE GREAT BAT THREAT 'AS BEEN FOUGHT OFF BY THAE BRAVE MEN O' THE GUARDS, RUMOURS O' SPIDER INVASIONS FROM CURSED CAVERNS BE LIES AN' SEDITION, ALL PAY 'EED, THIS BE THAE PRINCE'S NEWS AN' EDICT.\n\n*he leans on his railing and eyes you again* 'appy now? Sod off."
+          }
+        }
+      },
+      {
+        "__struct_id": 4,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "RepliesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 6
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 1
+              },
+              "LinkComment": {
+                "type": "cexostring",
+                "value": ""
+              }
+            }
+          ]
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Speaker": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "*sighs even more heavily* Yer a pain in me backside, <boy/girl>. Fine... *bellow out across the square* THAE KOART SILK MERCHANT BE LOOKIN FER BRAVE FOLKS TAE COLLECT THAE SILK GLANDS O' GIANT SPIDERS UP IN THAE MOUNTAINS AN BRING EM TA HIM FER GOOD COIN. \n\nTHIS MESSAGE SPONSORED BY THAE MOONSHAES TRADE LEAGUE ON BEHALF O' KOART SILKS. \n\n*he looks down at his parchment and looks disgusted before continuing* KOART SILKS! TRUE MOONSHAES SILKS, FER TRUE MOONSHAES FFOLK!\n\n*to you* Now feck off."
           }
         }
       }
@@ -268,7 +448,7 @@
   },
   "NumWords": {
     "type": "dword",
-    "value": 147
+    "value": 301
   },
   "PreventZoomIn": {
     "type": "byte",
@@ -493,12 +673,146 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "News? Oh, can I ask what news there is?"
+            "0": "Uh... the Prince? Who exactly is this 'prince'?"
           }
         }
       },
       {
         "__struct_id": 4,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 3
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 1
+              },
+              "LinkComment": {
+                "type": "cexostring",
+                "value": ""
+              }
+            }
+          ]
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Oh right. Um, if you're meant to be telling the news, can I ask what news there is?"
+          }
+        }
+      },
+      {
+        "__struct_id": 5,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 3
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "News? Oh, can I ask what news there is?"
+          }
+        }
+      },
+      {
+        "__struct_id": 6,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -539,6 +853,71 @@
           "type": "cexolocstring",
           "value": {
             "0": "This town is weird *leave*"
+          }
+        }
+      },
+      {
+        "__struct_id": 7,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 4
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Wait, is there any more news?"
           }
         }
       }

@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 29
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 0
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This note, written in the hand of Commander Vermis of the Corwell Guards, has the following written on it:\n\n'Thee Silvercrest. Ae merchant vessele.\nMoored up on thee first nighte of Ches.\n\nGuard on deck saw nor hearde nothing.\nGuard asleep below saw nor hearde nothing, did change thee watch at first bell, dawn breaking.\nStern window openede be, without force. Signs of thievery be present only in Captain Maegis's stern cabin.\n\nStolen: gold, amountinge to 150 crowns, from Maegis's cabin chest, thee locke were picked.\n\nDamage: one birde, parrot, of greate ayge, by name of Clement, Maegis's prize-d companion of manny years be. Murder most fowle of thee birde there was, thee headless boddie left upon thee writing table. (Thee birde was not heard to swark?)\n\nSuspects:\nCitizens reporte a figure all dress-ed in blacke, did walke from the pontoone at dawn, his cloathes soak-ed and briney in viewe.'\n\n[Scribbled at the bottom is another note, which looks almost like an afterthought:]\n\n'Mr Black??'"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This note, written in the hand of Commander Vermis of the Corwell Guards, has the following written on it:\n\n'Thee Silvercrest. Ae merchant vessele.\nMoored up on thee first nighte of Ches.\n\nGuard on deck saw nor hearde nothing.\nGuard asleep below saw nor hearde nothing, did change thee watch at first bell, dawn breaking.\nStern window openede be, without force. Signs of thievery be present only in Captain Maegis's stern cabin.\n\nStolen: gold, amountinge to 150 crowns, from Maegis's cabin chest, thee locke were picked.\n\nDamage: one birde, parrot, of greate ayge, by name of Clement, Maegis's prize-d companion of manny years be. Murder most fowle of thee birde there was, thee headless boddie left upon thee writing table. (Thee birde was not heard to swark?)\n\nSuspects:\nCitizens reporte a figure all dress-ed in blacke, did walke from the pontoone at dawn, his cloathes soak-ed and briney in viewe.'\n\n[Scribbled at the bottom is another note, which looks almost like an afterthought:]\n\n'Mr Black??'"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Cmdr. Vermis's Note"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 15
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 54
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "CmdrVermissNote"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "item020"
+  }
+}

@@ -2597,6 +2597,28 @@
               "__struct_id": 0,
               "NAME": {
                 "type": "cexostring",
+                "value": "cor_trade_wagon_escort_wp"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint087"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "corwell_to_kingsbay_wp"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint088"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
                 "value": "Fishwaypoint"
               },
               "RESREF": {

@@ -27,12 +27,14 @@
   "DescIdentified": {
     "type": "cexolocstring",
     "value": {
-      "0": "This is the silk gland from a spider. It might be of some small worth to someone."
+      "0": "This is the silk gland from a spider. It might be of worth to someone."
     }
   },
   "Description": {
     "type": "cexolocstring",
-    "value": {}
+    "value": {
+      "0": ""
+    }
   },
   "Identified": {
     "type": "byte",
@@ -54,7 +56,7 @@
   },
   "Plot": {
     "type": "byte",
-    "value": 0
+    "value": 1
   },
   "PropertiesList": {
     "type": "list",

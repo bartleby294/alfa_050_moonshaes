@@ -2,7 +2,7 @@
   "__data_type": "UTI ",
   "AddCost": {
     "type": "dword",
-    "value": 0
+    "value": 700
   },
   "ArmorPart_Belt": {
     "type": "byte",
@@ -102,7 +102,7 @@
   },
   "Cost": {
     "type": "dword",
-    "value": 1730
+    "value": 700
   },
   "Cursed": {
     "type": "byte",
@@ -164,7 +164,7 @@
         },
         "CostTable": {
           "type": "byte",
-          "value": 25
+          "value": 10
         },
         "CostValue": {
           "type": "word",
@@ -180,11 +180,11 @@
         },
         "PropertyName": {
           "type": "word",
-          "value": 52
+          "value": 11
         },
         "Subtype": {
           "type": "word",
-          "value": 5
+          "value": 0
         }
       },
       {
@@ -195,11 +195,11 @@
         },
         "CostTable": {
           "type": "byte",
-          "value": 25
+          "value": 0
         },
         "CostValue": {
           "type": "word",
-          "value": 1
+          "value": 0
         },
         "Param1": {
           "type": "byte",
@@ -211,73 +211,11 @@
         },
         "PropertyName": {
           "type": "word",
-          "value": 52
+          "value": 151
         },
         "Subtype": {
           "type": "word",
-          "value": 8
-        }
-      },
-      {
-        "__struct_id": 0,
-        "ChanceAppear": {
-          "type": "byte",
-          "value": 100
-        },
-        "CostTable": {
-          "type": "byte",
-          "value": 25
-        },
-        "CostValue": {
-          "type": "word",
-          "value": 1
-        },
-        "Param1": {
-          "type": "byte",
-          "value": 255
-        },
-        "Param1Value": {
-          "type": "byte",
           "value": 0
-        },
-        "PropertyName": {
-          "type": "word",
-          "value": 52
-        },
-        "Subtype": {
-          "type": "word",
-          "value": 13
-        }
-      },
-      {
-        "__struct_id": 0,
-        "ChanceAppear": {
-          "type": "byte",
-          "value": 100
-        },
-        "CostTable": {
-          "type": "byte",
-          "value": 25
-        },
-        "CostValue": {
-          "type": "word",
-          "value": 1
-        },
-        "Param1": {
-          "type": "byte",
-          "value": 255
-        },
-        "Param1Value": {
-          "type": "byte",
-          "value": 0
-        },
-        "PropertyName": {
-          "type": "word",
-          "value": 52
-        },
-        "Subtype": {
-          "type": "word",
-          "value": 21
         }
       }
     ]

@@ -311,6 +311,39 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "bandit_amb_1"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_amb_1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "bandit_amb_2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_amb_2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "bandit_amb_3"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_amb_3"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Knockoverride"
                     },
                     "RESREF": {

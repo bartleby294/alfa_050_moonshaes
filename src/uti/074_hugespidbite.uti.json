@@ -18,7 +18,7 @@
   },
   "Cost": {
     "type": "dword",
-    "value": 18000
+    "value": 8000
   },
   "Cursed": {
     "type": "byte",
@@ -60,37 +60,6 @@
   "PropertiesList": {
     "type": "list",
     "value": [
-      {
-        "__struct_id": 0,
-        "ChanceAppear": {
-          "type": "byte",
-          "value": 100
-        },
-        "CostTable": {
-          "type": "byte",
-          "value": 19
-        },
-        "CostValue": {
-          "type": "word",
-          "value": 9
-        },
-        "Param1": {
-          "type": "byte",
-          "value": 255
-        },
-        "Param1Value": {
-          "type": "byte",
-          "value": 255
-        },
-        "PropertyName": {
-          "type": "word",
-          "value": 77
-        },
-        "Subtype": {
-          "type": "word",
-          "value": 0
-        }
-      },
       {
         "__struct_id": 0,
         "ChanceAppear": {

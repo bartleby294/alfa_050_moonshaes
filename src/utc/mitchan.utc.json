@@ -134,7 +134,7 @@
   },
   "Conversation": {
     "type": "resref",
-    "value": "_farmer_conv_02"
+    "value": "_farm_mitchan"
   },
   "CRAdjust": {
     "type": "int",

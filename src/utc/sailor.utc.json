@@ -134,7 +134,7 @@
   },
   "Conversation": {
     "type": "resref",
-    "value": "_sailor_con_01"
+    "value": ""
   },
   "CRAdjust": {
     "type": "int",
@@ -679,7 +679,7 @@
   },
   "SoundSetFile": {
     "type": "word",
-    "value": 1
+    "value": 183
   },
   "SpecAbilityList": {
     "type": "list",

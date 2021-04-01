@@ -2237,7 +2237,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 209
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -2249,7 +2249,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 1
+          "value": 3
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -2280,7 +2280,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 209
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -2292,7 +2292,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 1
+          "value": 3
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -2925,7 +2925,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 455
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -2937,7 +2937,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 0
+          "value": 1
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -2968,7 +2968,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 453
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -2980,7 +2980,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 2
+          "value": 1
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -3613,7 +3613,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 456
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -3625,7 +3625,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 0
+          "value": 1
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -3656,7 +3656,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 454
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -3668,7 +3668,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 2
+          "value": 1
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -4301,7 +4301,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 89
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -4313,7 +4313,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 1
+          "value": 3
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -4989,7 +4989,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 11
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -5001,7 +5001,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 2
+          "value": 1
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -5677,7 +5677,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 8
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -5689,7 +5689,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 2
+          "value": 3
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -6365,7 +6365,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 70
+          "value": 61
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -6408,7 +6408,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 83
+          "value": 53
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -6420,7 +6420,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 0
+          "value": 3
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -7053,7 +7053,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 454
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -7065,7 +7065,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 1
+          "value": 3
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -7096,7 +7096,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 456
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -7108,7 +7108,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 2
+          "value": 3
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -7741,7 +7741,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 453
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -7784,7 +7784,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 455
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -7796,7 +7796,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 2
+          "value": 3
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -8429,7 +8429,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 209
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -8441,7 +8441,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 3
+          "value": 1
         },
         "Tile_SrcLight1": {
           "type": "byte",
@@ -8472,7 +8472,7 @@
         },
         "Tile_ID": {
           "type": "int",
-          "value": 17
+          "value": 209
         },
         "Tile_MainLight1": {
           "type": "byte",
@@ -8484,7 +8484,7 @@
         },
         "Tile_Orientation": {
           "type": "int",
-          "value": 2
+          "value": 1
         },
         "Tile_SrcLight1": {
           "type": "byte",

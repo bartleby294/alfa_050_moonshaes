@@ -14,7 +14,7 @@
   },
   "ChallengeRating": {
     "type": "float",
-    "value": 3.0
+    "value": 2.0
   },
   "ClassList": {
     "type": "list",
@@ -27,7 +27,7 @@
         },
         "ClassLevel": {
           "type": "short",
-          "value": 10
+          "value": 7
         }
       }
     ]
@@ -82,7 +82,7 @@
         "__struct_id": 16384,
         "EquippedRes": {
           "type": "resref",
-          "value": "074_hugespidbite"
+          "value": "074_smalspidbite"
         }
       },
       {
@@ -203,7 +203,7 @@
   },
   "MaxHitPoints": {
     "type": "short",
-    "value": 55
+    "value": 52
   },
   "NaturalAC": {
     "type": "byte",
@@ -283,7 +283,7 @@
   },
   "ScriptSpawn": {
     "type": "resref",
-    "value": "ja_ai_onspawn"
+    "value": "zmg_lurkersize"
   },
   "ScriptSpellAt": {
     "type": "resref",
@@ -618,7 +618,7 @@
   },
   "Str": {
     "type": "byte",
-    "value": 19
+    "value": 16
   },
   "Subrace": {
     "type": "cexostring",
