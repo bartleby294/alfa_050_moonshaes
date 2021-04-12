@@ -13399,7 +13399,7 @@
         },
         "IdentifyPrice": {
           "type": "int",
-          "value": 200
+          "value": 150
         },
         "LocName": {
           "type": "cexolocstring",
@@ -13417,7 +13417,7 @@
         },
         "MaxBuyPrice": {
           "type": "int",
-          "value": 200
+          "value": 100
         },
         "OnOpenStore": {
           "type": "resref",
@@ -13596,143 +13596,6 @@
                     "__struct_id": 1,
                     "AddCost": {
                       "type": "dword",
-                      "value": 20
-                    },
-                    "BaseItem": {
-                      "type": "int",
-                      "value": 24
-                    },
-                    "Charges": {
-                      "type": "byte",
-                      "value": 0
-                    },
-                    "Cost": {
-                      "type": "dword",
-                      "value": 20
-                    },
-                    "Cursed": {
-                      "type": "byte",
-                      "value": 0
-                    },
-                    "DescIdentified": {
-                      "type": "cexolocstring",
-                      "value": {
-                        "0": "The flowers of this plant are soaked in wine to make an oil used to close wounds and heal bruises.\n\nEffect: 1d4 hit points regained and saving throw vs. poison boosted for 2 turns."
-                      }
-                    },
-                    "Description": {
-                      "type": "cexolocstring",
-                      "value": {
-                        "0": ""
-                      }
-                    },
-                    "Identified": {
-                      "type": "byte",
-                      "value": 1
-                    },
-                    "Infinite": {
-                      "type": "byte",
-                      "value": 1
-                    },
-                    "LocalizedName": {
-                      "type": "cexolocstring",
-                      "value": {
-                        "0": "All Saints' Wort"
-                      }
-                    },
-                    "ModelPart1": {
-                      "type": "byte",
-                      "value": 3
-                    },
-                    "Plot": {
-                      "type": "byte",
-                      "value": 0
-                    },
-                    "PropertiesList": {
-                      "type": "list",
-                      "value": [
-                        {
-                          "__struct_id": 0,
-                          "ChanceAppear": {
-                            "type": "byte",
-                            "value": 100
-                          },
-                          "CostTable": {
-                            "type": "byte",
-                            "value": 3
-                          },
-                          "CostValue": {
-                            "type": "word",
-                            "value": 1
-                          },
-                          "Param1": {
-                            "type": "byte",
-                            "value": 255
-                          },
-                          "Param1Value": {
-                            "type": "byte",
-                            "value": 0
-                          },
-                          "PropertyName": {
-                            "type": "word",
-                            "value": 15
-                          },
-                          "Subtype": {
-                            "type": "word",
-                            "value": 329
-                          }
-                        }
-                      ]
-                    },
-                    "Repos_PosX": {
-                      "type": "word",
-                      "value": 1
-                    },
-                    "Repos_Posy": {
-                      "type": "word",
-                      "value": 0
-                    },
-                    "StackSize": {
-                      "type": "word",
-                      "value": 1
-                    },
-                    "Stolen": {
-                      "type": "byte",
-                      "value": 0
-                    },
-                    "Tag": {
-                      "type": "cexostring",
-                      "value": "004HERBAllsaintswort"
-                    },
-                    "TemplateResRef": {
-                      "type": "resref",
-                      "value": "allsaintswort"
-                    },
-                    "XOrientation": {
-                      "type": "float",
-                      "value": 0.0
-                    },
-                    "XPosition": {
-                      "type": "float",
-                      "value": -1.0
-                    },
-                    "YOrientation": {
-                      "type": "float",
-                      "value": 1.0
-                    },
-                    "YPosition": {
-                      "type": "float",
-                      "value": -1.0
-                    },
-                    "ZPosition": {
-                      "type": "float",
-                      "value": -1.0
-                    }
-                  },
-                  {
-                    "__struct_id": 2,
-                    "AddCost": {
-                      "type": "dword",
                       "value": 25
                     },
                     "BaseItem": {
@@ -13823,7 +13686,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 2
+                      "value": 1
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -13867,7 +13730,7 @@
                     }
                   },
                   {
-                    "__struct_id": 3,
+                    "__struct_id": 2,
                     "AddCost": {
                       "type": "dword",
                       "value": 16
@@ -13960,7 +13823,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 3
+                      "value": 2
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -14004,7 +13867,7 @@
                     }
                   },
                   {
-                    "__struct_id": 4,
+                    "__struct_id": 3,
                     "AddCost": {
                       "type": "dword",
                       "value": 1
@@ -14095,7 +13958,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 4
+                      "value": 3
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -14139,7 +14002,7 @@
                     }
                   },
                   {
-                    "__struct_id": 5,
+                    "__struct_id": 4,
                     "AddCost": {
                       "type": "dword",
                       "value": 25
@@ -14232,7 +14095,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 5
+                      "value": 4
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -14276,7 +14139,7 @@
                     }
                   },
                   {
-                    "__struct_id": 6,
+                    "__struct_id": 5,
                     "AddCost": {
                       "type": "dword",
                       "value": 3
@@ -14367,7 +14230,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 6
+                      "value": 5
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -14411,7 +14274,7 @@
                     }
                   },
                   {
-                    "__struct_id": 7,
+                    "__struct_id": 6,
                     "AddCost": {
                       "type": "dword",
                       "value": 1
@@ -14502,7 +14365,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 7
+                      "value": 6
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -14546,7 +14409,7 @@
                     }
                   },
                   {
-                    "__struct_id": 8,
+                    "__struct_id": 7,
                     "AddCost": {
                       "type": "dword",
                       "value": 75
@@ -14639,7 +14502,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 8
+                      "value": 7
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -14683,7 +14546,7 @@
                     }
                   },
                   {
-                    "__struct_id": 9,
+                    "__struct_id": 8,
                     "AddCost": {
                       "type": "dword",
                       "value": 5
@@ -14776,7 +14639,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 9
+                      "value": 8
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -14820,7 +14683,7 @@
                     }
                   },
                   {
-                    "__struct_id": 10,
+                    "__struct_id": 9,
                     "AddCost": {
                       "type": "dword",
                       "value": 12
@@ -14913,11 +14776,11 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 0
+                      "value": 9
                     },
                     "Repos_Posy": {
                       "type": "word",
-                      "value": 1
+                      "value": 0
                     },
                     "StackSize": {
                       "type": "word",
@@ -14957,7 +14820,7 @@
                     }
                   },
                   {
-                    "__struct_id": 11,
+                    "__struct_id": 10,
                     "AddCost": {
                       "type": "dword",
                       "value": 50
@@ -15050,7 +14913,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 1
+                      "value": 0
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -15094,7 +14957,7 @@
                     }
                   },
                   {
-                    "__struct_id": 12,
+                    "__struct_id": 11,
                     "AddCost": {
                       "type": "dword",
                       "value": 10
@@ -15187,7 +15050,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 2
+                      "value": 1
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -15231,7 +15094,7 @@
                     }
                   },
                   {
-                    "__struct_id": 13,
+                    "__struct_id": 12,
                     "AddCost": {
                       "type": "dword",
                       "value": 1
@@ -15322,7 +15185,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 3
+                      "value": 2
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -15366,7 +15229,7 @@
                     }
                   },
                   {
-                    "__struct_id": 14,
+                    "__struct_id": 13,
                     "AddCost": {
                       "type": "dword",
                       "value": 15
@@ -15459,7 +15322,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 4
+                      "value": 3
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -15503,7 +15366,7 @@
                     }
                   },
                   {
-                    "__struct_id": 15,
+                    "__struct_id": 14,
                     "AddCost": {
                       "type": "dword",
                       "value": 40
@@ -15596,7 +15459,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 5
+                      "value": 4
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -15640,7 +15503,7 @@
                     }
                   },
                   {
-                    "__struct_id": 16,
+                    "__struct_id": 15,
                     "AddCost": {
                       "type": "dword",
                       "value": 35
@@ -15733,7 +15596,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 6
+                      "value": 5
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -15777,7 +15640,7 @@
                     }
                   },
                   {
-                    "__struct_id": 17,
+                    "__struct_id": 16,
                     "AddCost": {
                       "type": "dword",
                       "value": 125
@@ -15870,7 +15733,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 7
+                      "value": 6
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -15914,7 +15777,7 @@
                     }
                   },
                   {
-                    "__struct_id": 18,
+                    "__struct_id": 17,
                     "AddCost": {
                       "type": "dword",
                       "value": 30
@@ -16007,7 +15870,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 8
+                      "value": 7
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -16051,7 +15914,7 @@
                     }
                   },
                   {
-                    "__struct_id": 19,
+                    "__struct_id": 18,
                     "AddCost": {
                       "type": "dword",
                       "value": 50
@@ -16144,7 +16007,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 9
+                      "value": 8
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -16188,7 +16051,7 @@
                     }
                   },
                   {
-                    "__struct_id": 20,
+                    "__struct_id": 19,
                     "AddCost": {
                       "type": "dword",
                       "value": 40
@@ -16281,11 +16144,11 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 0
+                      "value": 9
                     },
                     "Repos_Posy": {
                       "type": "word",
-                      "value": 2
+                      "value": 1
                     },
                     "StackSize": {
                       "type": "word",
@@ -16325,7 +16188,7 @@
                     }
                   },
                   {
-                    "__struct_id": 21,
+                    "__struct_id": 20,
                     "AddCost": {
                       "type": "dword",
                       "value": 30
@@ -16418,7 +16281,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 1
+                      "value": 0
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -16462,7 +16325,7 @@
                     }
                   },
                   {
-                    "__struct_id": 22,
+                    "__struct_id": 21,
                     "AddCost": {
                       "type": "dword",
                       "value": 20
@@ -16555,7 +16418,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 2
+                      "value": 1
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -16599,7 +16462,7 @@
                     }
                   },
                   {
-                    "__struct_id": 23,
+                    "__struct_id": 22,
                     "AddCost": {
                       "type": "dword",
                       "value": 30
@@ -16692,7 +16555,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 3
+                      "value": 2
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -16736,7 +16599,7 @@
                     }
                   },
                   {
-                    "__struct_id": 24,
+                    "__struct_id": 23,
                     "AddCost": {
                       "type": "dword",
                       "value": 15
@@ -16829,7 +16692,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 4
+                      "value": 3
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -16873,7 +16736,7 @@
                     }
                   },
                   {
-                    "__struct_id": 25,
+                    "__struct_id": 24,
                     "AddCost": {
                       "type": "dword",
                       "value": 15
@@ -16966,7 +16829,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 5
+                      "value": 4
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -17010,7 +16873,7 @@
                     }
                   },
                   {
-                    "__struct_id": 26,
+                    "__struct_id": 25,
                     "AddCost": {
                       "type": "dword",
                       "value": 50
@@ -17103,7 +16966,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 6
+                      "value": 5
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -17147,7 +17010,7 @@
                     }
                   },
                   {
-                    "__struct_id": 27,
+                    "__struct_id": 26,
                     "AddCost": {
                       "type": "dword",
                       "value": 12
@@ -17240,7 +17103,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 7
+                      "value": 6
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -17284,7 +17147,7 @@
                     }
                   },
                   {
-                    "__struct_id": 28,
+                    "__struct_id": 27,
                     "AddCost": {
                       "type": "dword",
                       "value": 19
@@ -17377,7 +17240,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 8
+                      "value": 7
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -17421,7 +17284,7 @@
                     }
                   },
                   {
-                    "__struct_id": 29,
+                    "__struct_id": 28,
                     "AddCost": {
                       "type": "dword",
                       "value": 10
@@ -17514,7 +17377,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 9
+                      "value": 8
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -17558,7 +17421,7 @@
                     }
                   },
                   {
-                    "__struct_id": 30,
+                    "__struct_id": 29,
                     "AddCost": {
                       "type": "dword",
                       "value": 1
@@ -17649,11 +17512,11 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 0
+                      "value": 9
                     },
                     "Repos_Posy": {
                       "type": "word",
-                      "value": 3
+                      "value": 2
                     },
                     "StackSize": {
                       "type": "word",
@@ -17693,7 +17556,7 @@
                     }
                   },
                   {
-                    "__struct_id": 31,
+                    "__struct_id": 30,
                     "AddCost": {
                       "type": "dword",
                       "value": 20
@@ -17786,7 +17649,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 1
+                      "value": 0
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -17830,7 +17693,7 @@
                     }
                   },
                   {
-                    "__struct_id": 32,
+                    "__struct_id": 31,
                     "AddCost": {
                       "type": "dword",
                       "value": 50
@@ -17923,7 +17786,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 2
+                      "value": 1
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -17967,7 +17830,7 @@
                     }
                   },
                   {
-                    "__struct_id": 33,
+                    "__struct_id": 32,
                     "AddCost": {
                       "type": "dword",
                       "value": 75
@@ -18060,7 +17923,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 3
+                      "value": 2
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -18104,7 +17967,7 @@
                     }
                   },
                   {
-                    "__struct_id": 34,
+                    "__struct_id": 33,
                     "AddCost": {
                       "type": "dword",
                       "value": 75
@@ -18197,7 +18060,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 4
+                      "value": 3
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -18241,7 +18104,7 @@
                     }
                   },
                   {
-                    "__struct_id": 35,
+                    "__struct_id": 34,
                     "AddCost": {
                       "type": "dword",
                       "value": 6
@@ -18334,7 +18197,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 5
+                      "value": 4
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -18378,7 +18241,7 @@
                     }
                   },
                   {
-                    "__struct_id": 36,
+                    "__struct_id": 35,
                     "AddCost": {
                       "type": "dword",
                       "value": 35
@@ -18471,7 +18334,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 6
+                      "value": 5
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -18515,7 +18378,7 @@
                     }
                   },
                   {
-                    "__struct_id": 37,
+                    "__struct_id": 36,
                     "AddCost": {
                       "type": "dword",
                       "value": 9
@@ -18608,7 +18471,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 7
+                      "value": 6
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -18652,7 +18515,7 @@
                     }
                   },
                   {
-                    "__struct_id": 38,
+                    "__struct_id": 37,
                     "AddCost": {
                       "type": "dword",
                       "value": 25
@@ -18745,7 +18608,7 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 9
+                      "value": 8
                     },
                     "Repos_Posy": {
                       "type": "word",
@@ -18789,10 +18652,10 @@
                     }
                   },
                   {
-                    "__struct_id": 39,
+                    "__struct_id": 38,
                     "AddCost": {
                       "type": "dword",
-                      "value": 46
+                      "value": 22
                     },
                     "BaseItem": {
                       "type": "int",
@@ -18804,7 +18667,7 @@
                     },
                     "Cost": {
                       "type": "dword",
-                      "value": 50
+                      "value": 26
                     },
                     "Cursed": {
                       "type": "byte",
@@ -18813,13 +18676,13 @@
                     "DescIdentified": {
                       "type": "cexolocstring",
                       "value": {
-                        "0": "Rubbing this stinky green paste into wounds promotes rapid healing. Applying the salve is a full-round action. One dose cures 1d8 points of damage to a living creature. Only one dose may be applied per round, and there is no limit on how many salves can be applied over time."
+                        "0": "Rubbing this stinky green paste into wounds, and rapidly wrapping the wounds with bandages, promotes rapid healing. This requires two people to see to a wound; one to apply the paste and the other to quickly apply the bandages before the substance hardens and forms a brittle layer. \n\nApplying the salve is a full-round action. One dose cures 1d8 points of damage to a living creature. Only one dose may be applied per round, and there is no limit on how many salves can be applied over time."
                       }
                     },
                     "Description": {
                       "type": "cexolocstring",
                       "value": {
-                        "0": "Rubbing this stinky green paste into wounds promotes rapid healing. Applying the salve is a full-round action. One dose cures 1d8 points of damage to a living creature. Only one dose may be applied per round, and there is no limit on how many salves can be applied over time."
+                        "0": "Rubbing this stinky green paste into wounds, and rapidly wrapping the wounds with bandages, promotes rapid healing. This requires two people to see to a wound; one to apply the paste and the other to quickly apply the bandages before the substance hardens and forms a brittle layer. \n\nApplying the salve is a full-round action. One dose cures 1d8 points of damage to a living creature. Only one dose may be applied per round, and there is no limit on how many salves can be applied over time."
                       }
                     },
                     "Identified": {
@@ -18833,7 +18696,7 @@
                     "LocalizedName": {
                       "type": "cexolocstring",
                       "value": {
-                        "0": "Healing Salve"
+                        "0": "Nan Emes's Healing Salve"
                       }
                     },
                     "ModelPart1": {
@@ -18882,11 +18745,11 @@
                     },
                     "Repos_PosX": {
                       "type": "word",
-                      "value": 0
+                      "value": 9
                     },
                     "Repos_Posy": {
                       "type": "word",
-                      "value": 4
+                      "value": 3
                     },
                     "StackSize": {
                       "type": "word",
@@ -18898,11 +18761,11 @@
                     },
                     "Tag": {
                       "type": "cexostring",
-                      "value": "healingsalve"
+                      "value": "nanemeshealingsalve"
                     },
                     "TemplateResRef": {
                       "type": "resref",
-                      "value": "healingsalve"
+                      "value": "healingsalve001"
                     },
                     "XOrientation": {
                       "type": "float",
@@ -18940,7 +18803,22 @@
         },
         "WillOnlyBuy": {
           "type": "list",
-          "value": []
+          "value": [
+            {
+              "__struct_id": 97869,
+              "BaseItem": {
+                "type": "int",
+                "value": 24
+              }
+            },
+            {
+              "__struct_id": 97869,
+              "BaseItem": {
+                "type": "int",
+                "value": 219
+              }
+            }
+          ]
         },
         "XOrientation": {
           "type": "float",

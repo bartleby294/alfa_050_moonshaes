@@ -6460,11 +6460,44 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "Cook's apron"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "064"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Corwell Crier Clothing"
                     },
                     "RESREF": {
                       "type": "resref",
                       "value": "corwellcrierclth"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Corwell Trade League Wagon Master Clothing"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "commonercloth043"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Corwell Trade League Wagon Master Clothing"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "commonercloth044"
                     }
                   },
                   {
@@ -16946,6 +16979,17 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "Acid wolf bite"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "it_crewps007"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Adult White Dragon Bite"
                     },
                     "RESREF": {
@@ -18094,6 +18138,17 @@
                     "RESREF": {
                       "type": "resref",
                       "value": "acidsting"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "AcidBoarGore"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "it_crewpp011"
                     }
                   },
                   {
@@ -21355,6 +21410,138 @@
               "RESREF": {
                 "type": "resref",
                 "value": "rosekey"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Salmon Chambers key"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "salmonchamberske"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Chambers key"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "silverchamberske"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 1"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item021"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 10 (lodgings)"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item031"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item023"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 3"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item024"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 4"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item025"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 5"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item026"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 6"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item027"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 7"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item028"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 8 (lodgings)"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item029"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Silver Salmon Key - Room 9 (lodgings)"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item030"
               }
             },
             {
@@ -27731,6 +27918,17 @@
                     "__struct_id": 0,
                     "NAME": {
                       "type": "cexostring",
+                      "value": "Nan Emes's Healing Salve"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "healingsalve001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
                       "value": "Parasol"
                     },
                     "RESREF": {
@@ -30101,6 +30299,28 @@
               "RESREF": {
                 "type": "resref",
                 "value": "elsworthsletter"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Huge pockmarked boar's tusk"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "item022"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Huge pockmarked wolf's tooth"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "hugepockmarke002"
               }
             },
             {

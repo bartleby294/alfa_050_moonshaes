@@ -96,11 +96,11 @@
   },
   "OnDamaged": {
     "type": "resref",
-    "value": ""
+    "value": "ms_spdrcocondist"
   },
   "OnDeath": {
     "type": "resref",
-    "value": ""
+    "value": "ms_spdrcocdestro"
   },
   "OnDisarm": {
     "type": "resref",
@@ -112,7 +112,7 @@
   },
   "OnInvDisturbed": {
     "type": "resref",
-    "value": ""
+    "value": "ms_spdrcocondist"
   },
   "OnLock": {
     "type": "resref",
@@ -124,7 +124,7 @@
   },
   "OnOpen": {
     "type": "resref",
-    "value": ""
+    "value": "ms_spdrcoconloot"
   },
   "OnSpellCastAt": {
     "type": "resref",

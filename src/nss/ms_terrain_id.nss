@@ -56,31 +56,65 @@ string GetRandomTerrainType() {
 
 string GetTerrainTypeFromResRef(string resRef) {
 
-    if(NWNX_Regex_Search(resRef, "tno01_p[0-9]{2}_[0-9]{2}") == TRUE) {
+    if(TestStringAgainstPattern("tno01_p**", resRef) == TRUE) {
         return TERRAIN_FIELD;
     }
-    if(NWNX_Regex_Search(resRef, "tno01_r[0-9]{2}_[0-9]{2}") == TRUE) {
+    if(TestStringAgainstPattern("tno01_r**", resRef) == TRUE) {
         return TERRAIN_ROCKY;
     }
-    if(NWNX_Regex_Search(resRef, "tno01_a[0-9]{2}_[0-9]{2}") == TRUE) {
+    if(TestStringAgainstPattern("tno01_a**", resRef) == TRUE) {
         return TERRAIN_HILL;
     }
-    if(NWNX_Regex_Search(resRef, "tno01_b[0-9]{2}_[0-9]{2}") == TRUE) {
+    if(TestStringAgainstPattern("tno01_b**", resRef) == TRUE) {
         return TERRAIN_FRESH_WATER;
     }
-    if(NWNX_Regex_Search(resRef, "tno01_q[0-9]{2}_[0-9]{2}") == TRUE) {
+    if(TestStringAgainstPattern("tno01_q**", resRef) == TRUE) {
         return TERRAIN_FIELD;
     }
-    if(NWNX_Regex_Search(resRef, "tno01_x[0-9]{2}_[0-9]{2}") == TRUE) {
+    if(TestStringAgainstPattern("tno01_x**", resRef) == TRUE) {
         return TERRAIN_CITY;
     }
-    if(NWNX_Regex_Search(resRef, "tno01_h[0-9]{2}_[0-9]{2}") == TRUE) {
+    if(TestStringAgainstPattern("tno01_h**", resRef) == TRUE) {
         return TERRAIN_ROAD;
     }
-    if(NWNX_Regex_Search(resRef, "tno01_o[0-9]{2}_[0-9]{2}") == TRUE) {
+    if(TestStringAgainstPattern("tno01_o**", resRef) == TRUE) {
         return TERRAIN_FIELD;
     }
-    if(NWNX_Regex_Search(resRef, "tno01_v[0-9]{2}_[0-9]{2}") == TRUE) {
+    if(TestStringAgainstPattern("tno01_v**", resRef) == TRUE) {
+        return TERRAIN_SALT_WATER;
+    }
+
+    return TERRAIN_UNKNOWN;
+}
+
+
+string GetTerrainTypeFromResRefDepreciated(string resRef) {
+
+    if(NWNX_Regex_Search(resRef, "tno01_p[0-9][0-9]_[0-9][0-9]") == TRUE) {
+        return TERRAIN_FIELD;
+    }
+    if(NWNX_Regex_Search(resRef, "tno01_r[0-9][0-9]_[0-9][0-9]") == TRUE) {
+        return TERRAIN_ROCKY;
+    }
+    if(NWNX_Regex_Search(resRef, "tno01_a[0-9][0-9]_[0-9][0-9]") == TRUE) {
+        return TERRAIN_HILL;
+    }
+    if(NWNX_Regex_Search(resRef, "tno01_b[0-9][0-9]_[0-9][0-9]") == TRUE) {
+        return TERRAIN_FRESH_WATER;
+    }
+    if(NWNX_Regex_Search(resRef, "tno01_q[0-9][0-9]_[0-9][0-9]") == TRUE) {
+        return TERRAIN_FIELD;
+    }
+    if(NWNX_Regex_Search(resRef, "tno01_x[0-9][0-9]_[0-9][0-9]") == TRUE) {
+        return TERRAIN_CITY;
+    }
+    if(NWNX_Regex_Search(resRef, "tno01_h[0-9][0-9]_[0-9][0-9]") == TRUE) {
+        return TERRAIN_ROAD;
+    }
+    if(NWNX_Regex_Search(resRef, "tno01_o[0-9][0-9]_[0-9][0-9]") == TRUE) {
+        return TERRAIN_FIELD;
+    }
+    if(NWNX_Regex_Search(resRef, "tno01_v[0-9][0-9]_[0-9][0-9]") == TRUE) {
         return TERRAIN_SALT_WATER;
     }
 

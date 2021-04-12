@@ -50,7 +50,7 @@
   },
   "CurrentHitPoints": {
     "type": "short",
-    "value": 9
+    "value": 13
   },
   "DecayTime": {
     "type": "dword",
@@ -64,7 +64,7 @@
     "id": 12815,
     "type": "cexolocstring",
     "value": {
-      "0": "An icon of rugged individualism, yet renowned for its ability to hunt in packs, the noble Wolf is an animal of both mystique and power. There is something very wrong with this wolf. The animal appears to have grown to enormous size and acts in an erratic manner, snapping at the air... it appears highly aggressive, and its jaws drip with a horrid saliva."
+      "0": "An icon of rugged individualism, yet renowned for its ability to hunt in packs, the noble Wolf is an animal of both mystique and power. There is something very wrong with this wolf. The animal appears to have grown to enormous size and acts in an erratic manner, snapping at the air... it appears highly aggressive, and its jaws drip with a horrid saliva that fizzes and smokes when it comes into contact with rock or tree."
     }
   },
   "Dex": {
@@ -82,7 +82,7 @@
         "__struct_id": 65536,
         "EquippedRes": {
           "type": "resref",
-          "value": "nw_it_crewps005"
+          "value": "it_crewps007"
         }
       }
     ]
@@ -134,11 +134,11 @@
   },
   "GoodEvil": {
     "type": "byte",
-    "value": 50
+    "value": 0
   },
   "HitPoints": {
     "type": "short",
-    "value": 9
+    "value": 13
   },
   "Int": {
     "type": "byte",
@@ -167,7 +167,7 @@
         },
         "InventoryRes": {
           "type": "resref",
-          "value": "050_hide001"
+          "value": "hugepockmarke002"
         },
         "Repos_PosX": {
           "type": "word",
@@ -188,7 +188,7 @@
   },
   "LawfulChaotic": {
     "type": "byte",
-    "value": 50
+    "value": 0
   },
   "Lootable": {
     "type": "byte",
@@ -196,7 +196,7 @@
   },
   "MaxHitPoints": {
     "type": "short",
-    "value": 18
+    "value": 22
   },
   "NaturalAC": {
     "type": "byte",
@@ -228,7 +228,7 @@
   },
   "Race": {
     "type": "byte",
-    "value": 8
+    "value": 9
   },
   "refbonus": {
     "type": "short",

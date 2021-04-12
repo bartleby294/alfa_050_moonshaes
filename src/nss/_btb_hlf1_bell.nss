@@ -43,13 +43,6 @@ void writeToDB(int cornCnt) {
     SetCampaignInt("xvart_corn_raid_cnt", indexStr, cornCnt);
 }
 
-int isObjectInArea(string objTag) {
-    if(GetNearestObjectByTag(objTag, OBJECT_SELF) != OBJECT_INVALID) {
-        return TRUE;
-    }
-    return FALSE;
-}
-
 void MovementReset(object farmer) {
     WriteTimestampedLogEntry("BELL Resetting Movement");
     effect eSpeedUp = EffectMovementSpeedIncrease(98);
@@ -271,23 +264,47 @@ void msgToAllPCsInArea(float delay, string message) {
     }
 }
 
+int isObjectInArea(string objTag) {
+    if(GetNearestObjectByTag(objTag, OBJECT_SELF) != OBJECT_INVALID) {
+        return TRUE;
+    }
+    return FALSE;
+}
+
 int getCornCount() {
-    int i;
+    int i = 1;
     int cnt = 0;
-    for(i=1; i<49; ++i) {
+    while(i < 49) {
         if(isObjectInArea("hlf_f1_corn_obj_" + IntToString(i)) == TRUE) {
+            WriteTimestampedLogEntry("hlf_f1_corn_obj_" + IntToString(i) + " Exists");
             cnt++;
+        } else {
+            WriteTimestampedLogEntry("hlf_f1_corn_obj_" + IntToString(i) + " Does Not Exist");
         }
         i++;
     }
+    WriteTimestampedLogEntry("cnt: " + IntToString(cnt));
     return cnt;
 }
 
 /* Count up the corn thats left and put 2x the corn in the barrel. */
 void rewardCorn() {
+    WriteTimestampedLogEntry("=========Ending Corn Count=========");
     int cornCnt = getCornCount();
-    CreateItemOnObject("corn", GetObjectByTag("rewardCorn", 0),
-        cornCnt * 2, "corn");
+    int cornLeft = cornCnt * 2;
+    WriteTimestampedLogEntry("===================================");
+
+    object cornBarrel = GetObjectByTag("rewardCorn");
+
+    while(cornLeft > 0) {
+        int cornToGive = 10;
+        if(cornLeft < 10) {
+            cornToGive = cornLeft;
+        }
+        CreateItemOnObject("corn", cornBarrel, cornToGive, "corn");
+        cornLeft = cornLeft - cornToGive;
+    }
+
     writeToLog(IntToString(cornCnt) + " corn was saved!");
     writeToDB(cornCnt);
 }
@@ -306,6 +323,10 @@ void startRaid() {
     string BASE_WP_TAG = "hlf_f1_corn_";
     string BASE_OBJ_TAG = "hlf_f1_corn_obj_";
     string CORN_RESREF = "alfa_produce014";
+
+    WriteTimestampedLogEntry("========Starting Corn Count========");
+    getCornCount();
+    WriteTimestampedLogEntry("===================================");
 
     // do 1d5 + 10 total raids
     int numberOfRaids = Random(7) + 14;

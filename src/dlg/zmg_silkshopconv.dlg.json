@@ -47,61 +47,50 @@
         },
         "RepliesList": {
           "type": "list",
-          "value": []
-        },
-        "Script": {
-          "type": "resref",
-          "value": "zmg_silkshop"
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Speaker": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "I would like to buy some silk please"
-          }
-        }
-      },
-      {
-        "__struct_id": 1,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "RepliesList": {
-          "type": "list",
           "value": [
             {
               "__struct_id": 0,
               "Active": {
                 "type": "resref",
                 "value": "zmg_silkconditio"
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 3
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 1,
+              "Active": {
+                "type": "resref",
+                "value": "zmg_silklevel"
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 2
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 2,
+              "Active": {
+                "type": "resref",
+                "value": ""
               },
               "ConditionParams": {
                 "type": "list",
@@ -117,10 +106,10 @@
               }
             },
             {
-              "__struct_id": 1,
+              "__struct_id": 3,
               "Active": {
                 "type": "resref",
-                "value": "zmg_silklevel"
+                "value": ""
               },
               "ConditionParams": {
                 "type": "list",
@@ -157,7 +146,7 @@
         }
       },
       {
-        "__struct_id": 2,
+        "__struct_id": 1,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -206,7 +195,7 @@
         }
       },
       {
-        "__struct_id": 3,
+        "__struct_id": 2,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -233,7 +222,27 @@
         },
         "RepliesList": {
           "type": "list",
-          "value": []
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 4
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
         },
         "Script": {
           "type": "resref",
@@ -258,7 +267,7 @@
   },
   "NumWords": {
     "type": "dword",
-    "value": 136
+    "value": 141
   },
   "PreventZoomIn": {
     "type": "byte",
@@ -269,6 +278,161 @@
     "value": [
       {
         "__struct_id": 0,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": []
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "No thanks *leave*"
+          }
+        }
+      },
+      {
+        "__struct_id": 1,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": []
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": "zmg_silkshop"
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "I would like to buy some silk please"
+          }
+        }
+      },
+      {
+        "__struct_id": 2,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 1
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "I'm looking for work. Can you help me out?"
+          }
+        }
+      },
+      {
+        "__struct_id": 3,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -328,12 +492,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "I'm looking for work. Can you help me out?"
+            "0": "I found these silk glands. Do you take that sort of thing?"
           }
         }
       },
       {
-        "__struct_id": 1,
+        "__struct_id": 4,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -356,27 +520,7 @@
         },
         "EntriesList": {
           "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 3
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
-            }
-          ]
+          "value": []
         },
         "Quest": {
           "type": "cexostring",
@@ -393,7 +537,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "I found these silk glands. Do you take that sort of thing?"
+            "0": "Thanks *leave*"
           }
         }
       }
@@ -404,21 +548,6 @@
     "value": [
       {
         "__struct_id": 0,
-        "Active": {
-          "type": "resref",
-          "value": ""
-        },
-        "ConditionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Index": {
-          "type": "dword",
-          "value": 1
-        }
-      },
-      {
-        "__struct_id": 1,
         "Active": {
           "type": "resref",
           "value": ""

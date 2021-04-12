@@ -340,7 +340,7 @@
   },
   "ScriptSpawn": {
     "type": "resref",
-    "value": "x2_def_spawn"
+    "value": "_cor_horse_spaw1"
   },
   "ScriptSpellAt": {
     "type": "resref",

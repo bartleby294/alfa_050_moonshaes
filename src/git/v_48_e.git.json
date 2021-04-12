@@ -21952,7 +21952,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -22196,7 +22196,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockLargeWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -22421,7 +22421,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -22665,7 +22665,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockLargeWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -22890,7 +22890,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockSmWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -23569,7 +23569,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -23794,7 +23794,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockLargeWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -25148,7 +25148,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RocksMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -25392,7 +25392,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RocksSmWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -25617,7 +25617,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RocksLargeWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -26105,7 +26105,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RocksMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -67871,7 +67871,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RocksMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -68790,7 +68790,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockSmWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -69015,7 +69015,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RocksMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -103043,7 +103043,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RocksLargeWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -109361,7 +109361,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RocksMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -109586,7 +109586,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -109811,7 +109811,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockLargeWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -110036,7 +110036,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RockMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -110261,7 +110261,7 @@
         },
         "Tag": {
           "type": "cexostring",
-          "value": "RocksMedWRM"
+          "value": "visableScenery"
         },
         "TemplateResRef": {
           "type": "resref",
@@ -126228,7 +126228,7 @@
         },
         "HighlightHeight": {
           "type": "float",
-          "value": 0.0
+          "value": 3.0
         },
         "KeyName": {
           "type": "cexostring",
@@ -132008,6 +132008,254 @@
         "ZPosition": {
           "type": "float",
           "value": 16.1219
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Appearance": {
+          "type": "byte",
+          "value": 1
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "HasMapNote": {
+          "type": "byte",
+          "value": 0
+        },
+        "LinkedTo": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "LocalizedName": {
+          "id": 14817,
+          "type": "cexolocstring",
+          "value": {
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
+          }
+        },
+        "MapNote": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "MapNoteEnabled": {
+          "type": "byte",
+          "value": 1
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "_h_fox"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "nw_waypoint001"
+        },
+        "XOrientation": {
+          "type": "float",
+          "value": 0.0
+        },
+        "XPosition": {
+          "type": "float",
+          "value": 66.845
+        },
+        "YOrientation": {
+          "type": "float",
+          "value": 1.0
+        },
+        "YPosition": {
+          "type": "float",
+          "value": 249.0356
+        },
+        "ZPosition": {
+          "type": "float",
+          "value": 55.0298
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Appearance": {
+          "type": "byte",
+          "value": 1
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "HasMapNote": {
+          "type": "byte",
+          "value": 0
+        },
+        "LinkedTo": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "LocalizedName": {
+          "id": 14817,
+          "type": "cexolocstring",
+          "value": {
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
+          }
+        },
+        "MapNote": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "MapNoteEnabled": {
+          "type": "byte",
+          "value": 1
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "_h_fox"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "nw_waypoint001"
+        },
+        "XOrientation": {
+          "type": "float",
+          "value": 0.0
+        },
+        "XPosition": {
+          "type": "float",
+          "value": 288.3007
+        },
+        "YOrientation": {
+          "type": "float",
+          "value": 1.0
+        },
+        "YPosition": {
+          "type": "float",
+          "value": 264.8477
+        },
+        "ZPosition": {
+          "type": "float",
+          "value": 21.7876
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Appearance": {
+          "type": "byte",
+          "value": 1
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "HasMapNote": {
+          "type": "byte",
+          "value": 0
+        },
+        "LinkedTo": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "LocalizedName": {
+          "id": 14817,
+          "type": "cexolocstring",
+          "value": {
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
+          }
+        },
+        "MapNote": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "MapNoteEnabled": {
+          "type": "byte",
+          "value": 1
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "_bunny"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "nw_waypoint001"
+        },
+        "XOrientation": {
+          "type": "float",
+          "value": 0.0
+        },
+        "XPosition": {
+          "type": "float",
+          "value": 282.5529
+        },
+        "YOrientation": {
+          "type": "float",
+          "value": 1.0
+        },
+        "YPosition": {
+          "type": "float",
+          "value": 211.7409
+        },
+        "ZPosition": {
+          "type": "float",
+          "value": 49.6938
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Appearance": {
+          "type": "byte",
+          "value": 1
+        },
+        "Description": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "HasMapNote": {
+          "type": "byte",
+          "value": 0
+        },
+        "LinkedTo": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "LocalizedName": {
+          "id": 14817,
+          "type": "cexolocstring",
+          "value": {
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
+          }
+        },
+        "MapNote": {
+          "type": "cexolocstring",
+          "value": {}
+        },
+        "MapNoteEnabled": {
+          "type": "byte",
+          "value": 1
+        },
+        "Tag": {
+          "type": "cexostring",
+          "value": "_bunny"
+        },
+        "TemplateResRef": {
+          "type": "resref",
+          "value": "nw_waypoint001"
+        },
+        "XOrientation": {
+          "type": "float",
+          "value": 0.0
+        },
+        "XPosition": {
+          "type": "float",
+          "value": 27.8475
+        },
+        "YOrientation": {
+          "type": "float",
+          "value": 1.0
+        },
+        "YPosition": {
+          "type": "float",
+          "value": 131.1454
+        },
+        "ZPosition": {
+          "type": "float",
+          "value": 15.0
         }
       }
     ]

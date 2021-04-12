@@ -355,6 +355,10 @@
       },
       {
         "__struct_id": 1,
+        "Dropable": {
+          "type": "byte",
+          "value": 1
+        },
         "InventoryRes": {
           "type": "resref",
           "value": "nw_it_mpotion001"
@@ -466,7 +470,7 @@
   },
   "ScriptSpawn": {
     "type": "resref",
-    "value": "band_ai_onspawn"
+    "value": "band_ai_onspawn2"
   },
   "ScriptSpellAt": {
     "type": "resref",

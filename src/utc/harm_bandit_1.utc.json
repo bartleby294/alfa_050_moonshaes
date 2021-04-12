@@ -384,7 +384,7 @@
   },
   "ScriptSpawn": {
     "type": "resref",
-    "value": "band_ai_onspawn"
+    "value": "band_ai_onspawn2"
   },
   "ScriptSpellAt": {
     "type": "resref",

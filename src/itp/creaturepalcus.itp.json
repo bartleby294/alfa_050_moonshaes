@@ -9082,6 +9082,25 @@
               "__struct_id": 0,
               "CR": {
                 "type": "float",
+                "value": 2.0
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Hostile"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Diminutive Monstrous Bat"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "monstrouscorr001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
                 "value": 0.25
               },
               "FACTION": {
@@ -9969,6 +9988,44 @@
               },
               "FACTION": {
                 "type": "cexostring",
+                "value": "100% Happy"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Moonshaes Trade League Wagon Master"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "corwtadeleague1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "100% Happy"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Moonshaes Trade League Wagon Master"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "kingwtadeleague1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
                 "value": "Merchant"
               },
               "NAME": {
@@ -10091,7 +10148,7 @@
               },
               "RESREF": {
                 "type": "resref",
-                "value": "coveredwagon1"
+                "value": "mstradewagon1"
               }
             },
             {
@@ -10130,6 +10187,25 @@
               "RESREF": {
                 "type": "resref",
                 "value": "warin"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Merchant"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Winifred"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "winifred"
               }
             },
             {
@@ -10891,7 +10967,7 @@
                           "__struct_id": 0,
                           "CR": {
                             "type": "float",
-                            "value": 1.0
+                            "value": 2.0
                           },
                           "FACTION": {
                             "type": "cexostring",
@@ -11840,44 +11916,6 @@
                           "__struct_id": 0,
                           "CR": {
                             "type": "float",
-                            "value": 3.0
-                          },
-                          "FACTION": {
-                            "type": "cexostring",
-                            "value": "Hostile"
-                          },
-                          "NAME": {
-                            "type": "cexostring",
-                            "value": "Huge Slavering Boar"
-                          },
-                          "RESREF": {
-                            "type": "resref",
-                            "value": "boar001"
-                          }
-                        },
-                        {
-                          "__struct_id": 0,
-                          "CR": {
-                            "type": "float",
-                            "value": 2.0
-                          },
-                          "FACTION": {
-                            "type": "cexostring",
-                            "value": "Commoner"
-                          },
-                          "NAME": {
-                            "type": "cexostring",
-                            "value": "Huge Slavering Boar"
-                          },
-                          "RESREF": {
-                            "type": "resref",
-                            "value": "boar002"
-                          }
-                        },
-                        {
-                          "__struct_id": 0,
-                          "CR": {
-                            "type": "float",
                             "value": 0.3333
                           },
                           "FACTION": {
@@ -12206,6 +12244,49 @@
                     "ID": {
                       "type": "byte",
                       "value": 57
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Huge Slavering Boar"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "boar001"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Commoner"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Huge Slavering Boar"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "boar002"
+                          }
+                        }
+                      ]
                     },
                     "STRREF": {
                       "type": "dword",
@@ -17705,6 +17786,196 @@
                           "__struct_id": 0,
                           "CR": {
                             "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy1"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy2"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy3"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy4"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy5"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy6"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy7"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy8"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
+                            "value": 3.0
+                          },
+                          "FACTION": {
+                            "type": "cexostring",
+                            "value": "Hostile"
+                          },
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "Pirate"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pirateenemy9"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "CR": {
+                            "type": "float",
                             "value": 4.0
                           },
                           "FACTION": {
@@ -18348,7 +18619,7 @@
                           "__struct_id": 0,
                           "CR": {
                             "type": "float",
-                            "value": 0.5
+                            "value": 1.0
                           },
                           "FACTION": {
                             "type": "cexostring",
@@ -18367,7 +18638,7 @@
                           "__struct_id": 0,
                           "CR": {
                             "type": "float",
-                            "value": 0.5
+                            "value": 1.0
                           },
                           "FACTION": {
                             "type": "cexostring",
@@ -27978,6 +28249,25 @@
                     "__struct_id": 0,
                     "CR": {
                       "type": "float",
+                      "value": 0.25
+                    },
+                    "FACTION": {
+                      "type": "cexostring",
+                      "value": "Commoner"
+                    },
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Selyff"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "selyff"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "CR": {
+                      "type": "float",
                       "value": 0.5
                     },
                     "FACTION": {
@@ -34517,6 +34807,25 @@
               },
               "RESREF": {
                 "type": "resref",
+                "value": "boartuskinnpa010"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Boars Tusk Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
                 "value": "boartuskinnpatro"
               }
             },
@@ -35506,6 +35815,196 @@
               "RESREF": {
                 "type": "resref",
                 "value": "hammerstaadsa002"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron10"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron2"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron3"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron4"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron5"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron6"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron7"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron8"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 0.25
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Commoner"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Inn Patron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "innpatron9"
               }
             },
             {

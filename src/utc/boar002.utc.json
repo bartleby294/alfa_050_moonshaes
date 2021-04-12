@@ -14,7 +14,7 @@
   },
   "ChallengeRating": {
     "type": "float",
-    "value": 2.0
+    "value": 3.0
   },
   "ClassList": {
     "type": "list",
@@ -64,7 +64,7 @@
     "id": 12396,
     "type": "cexolocstring",
     "value": {
-      "0": "Though not true carnivores, these wild swine are very bad-tempered and can be aggressive.\nThere is something very wrong with this boar. It appears almost as if it has swelled to enormous size, and its thick hide is mottled as if with disease. The creature slavers at its mouth and roars with uncontrollable aggression, or perhaps anguish..."
+      "0": "Though not true carnivores, these wild swine are very bad-tempered and can be aggressive.\nThere is something very wrong with this boar. It appears almost as if it has swelled to enormous size, and its thick hide is mottled as if with disease. The creature slavers at its mouth, dripping a foul-smelling saliva that appears to fizz and smoke when it touches rocks and plants. The boar roars with uncontrollable aggression, or perhaps anguish..."
     }
   },
   "Dex": {
@@ -82,7 +82,7 @@
         "__struct_id": 65536,
         "EquippedRes": {
           "type": "resref",
-          "value": "nw_it_crewpp010"
+          "value": "it_crewpp011"
         }
       }
     ]
@@ -142,6 +142,30 @@
     "type": "byte",
     "value": 0
   },
+  "ItemList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Dropable": {
+          "type": "byte",
+          "value": 1
+        },
+        "InventoryRes": {
+          "type": "resref",
+          "value": "item022"
+        },
+        "Repos_PosX": {
+          "type": "word",
+          "value": 0
+        },
+        "Repos_Posy": {
+          "type": "word",
+          "value": 0
+        }
+      }
+    ]
+  },
   "LastName": {
     "type": "cexolocstring",
     "value": {}
@@ -168,7 +192,7 @@
   },
   "PaletteID": {
     "type": "byte",
-    "value": 9
+    "value": 57
   },
   "PerceptionRange": {
     "type": "byte",
@@ -188,7 +212,7 @@
   },
   "Race": {
     "type": "byte",
-    "value": 8
+    "value": 9
   },
   "refbonus": {
     "type": "short",
@@ -510,7 +534,7 @@
   },
   "Str": {
     "type": "byte",
-    "value": 15
+    "value": 16
   },
   "Subrace": {
     "type": "cexostring",

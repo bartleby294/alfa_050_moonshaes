@@ -145,6 +145,10 @@
     "value": [
       {
         "__struct_id": 0,
+        "Dropable": {
+          "type": "byte",
+          "value": 1
+        },
         "InventoryRes": {
           "type": "resref",
           "value": "batwing"
@@ -224,7 +228,7 @@
   },
   "ScriptDeath": {
     "type": "resref",
-    "value": "_btb_batwingdrop"
+    "value": "x2_def_ondeath"
   },
   "ScriptDialogue": {
     "type": "resref",

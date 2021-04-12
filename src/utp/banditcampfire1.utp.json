@@ -108,7 +108,7 @@
   },
   "OnHeartbeat": {
     "type": "resref",
-    "value": "_btb_ban_campfir"
+    "value": "ms_bndcmp_firehb"
   },
   "OnInvDisturbed": {
     "type": "resref",
@@ -120,7 +120,7 @@
   },
   "OnMeleeAttacked": {
     "type": "resref",
-    "value": ""
+    "value": "ms_bndcmp_fireoa"
   },
   "OnOpen": {
     "type": "resref",
@@ -140,7 +140,7 @@
   },
   "OnUsed": {
     "type": "resref",
-    "value": ""
+    "value": "ms_bndcmp_fireou"
   },
   "OnUserDefined": {
     "type": "resref",

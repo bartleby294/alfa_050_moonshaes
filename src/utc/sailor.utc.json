@@ -357,7 +357,7 @@
   },
   "Phenotype": {
     "type": "int",
-    "value": 0
+    "value": 2
   },
   "Plot": {
     "type": "byte",

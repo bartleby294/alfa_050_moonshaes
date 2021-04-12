@@ -167,7 +167,6 @@ int banditInArea(object oArea) {
 
     object oObject = GetFirstObjectInArea(oArea);
     while(GetIsObjectValid(oObject)) {
-         // Destroy any objects tagged "DESTROY"
          if(GetStringRight(GetResRef(oObject), 10) == "m_bandit_1") {
              return TRUE;
          }
@@ -267,6 +266,7 @@ void onAttackActions(string yellString) {
     //AssignCommand(OBJECT_SELF, ClearAllActions()); - removed
     if(myAction > 0) {
         AssignCommand(OBJECT_SELF, ClearAllActions());
+        SetLocalInt(OBJECT_SELF, "action", BANDIT_ATTACK_ACTION);
         writeToLog(" new combat PA");
         int i = 1;
         object lastAttacker = GetLastAttacker(OBJECT_SELF);

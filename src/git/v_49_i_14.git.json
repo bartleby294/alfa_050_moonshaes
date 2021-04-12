@@ -44095,7 +44095,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag4"
+          "value": "PrivateInnKeyRedstag4"
         },
         "KeyRequired": {
           "type": "byte",
@@ -70995,7 +70995,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag4"
+          "value": "PrivateInnKeyRedstag4"
         },
         "KeyRequired": {
           "type": "byte",
@@ -90921,7 +90921,7 @@
         },
         "MaxBuyPrice": {
           "type": "int",
-          "value": 300
+          "value": 50
         },
         "OnOpenStore": {
           "type": "resref",
@@ -94904,7 +94904,7 @@
               },
               "PointZ": {
                 "type": "float",
-                "value": 3.025
+                "value": 3.0213
               }
             },
             {
@@ -95024,7 +95024,7 @@
         },
         "XPosition": {
           "type": "float",
-          "value": 59.3632
+          "value": 59.7314
         },
         "YOrientation": {
           "type": "float",
@@ -95032,7 +95032,7 @@
         },
         "YPosition": {
           "type": "float",
-          "value": 50.2037
+          "value": 50.8045
         },
         "ZOrientation": {
           "type": "float",
@@ -97681,7 +97681,7 @@
         },
         "XPosition": {
           "type": "float",
-          "value": 25.0389
+          "value": 25.049
         },
         "YOrientation": {
           "type": "float",
@@ -97689,7 +97689,7 @@
         },
         "YPosition": {
           "type": "float",
-          "value": 5.129
+          "value": 5.1335
         },
         "ZPosition": {
           "type": "float",

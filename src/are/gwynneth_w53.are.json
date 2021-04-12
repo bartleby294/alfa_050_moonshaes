@@ -30,7 +30,7 @@
   },
   "Flags": {
     "type": "dword",
-    "value": 0
+    "value": 4
   },
   "FogClipDist": {
     "type": "float",
@@ -87,7 +87,7 @@
   "Name": {
     "type": "cexolocstring",
     "value": {
-      "0": "Gwynneth: W53 | Southern Shore"
+      "0": "|W53| Gwynneth: Southern Shore"
     }
   },
   "NoRest": {

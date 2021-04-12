@@ -14312,7 +14312,7 @@
                     "__struct_id": 14,
                     "AddCost": {
                       "type": "dword",
-                      "value": 29
+                      "value": 22
                     },
                     "BaseItem": {
                       "type": "int",
@@ -14324,7 +14324,7 @@
                     },
                     "Cost": {
                       "type": "dword",
-                      "value": 29
+                      "value": 22
                     },
                     "Cursed": {
                       "type": "byte",
@@ -14921,7 +14921,7 @@
                     "__struct_id": 18,
                     "AddCost": {
                       "type": "dword",
-                      "value": 79
+                      "value": 0
                     },
                     "BaseItem": {
                       "type": "int",
@@ -14933,7 +14933,7 @@
                     },
                     "Cost": {
                       "type": "dword",
-                      "value": 199
+                      "value": 120
                     },
                     "Cursed": {
                       "type": "byte",
@@ -18574,14 +18574,14 @@
               "__struct_id": 97869,
               "BaseItem": {
                 "type": "int",
-                "value": 225
+                "value": 45
               }
             },
             {
               "__struct_id": 97869,
               "BaseItem": {
                 "type": "int",
-                "value": 45
+                "value": 225
               }
             },
             {

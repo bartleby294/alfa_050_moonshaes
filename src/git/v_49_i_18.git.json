@@ -4534,7 +4534,7 @@
                     "__struct_id": 25,
                     "AddCost": {
                       "type": "dword",
-                      "value": 0
+                      "value": 340
                     },
                     "ArmorPart_Belt": {
                       "type": "byte",
@@ -4630,7 +4630,7 @@
                     },
                     "Cost": {
                       "type": "dword",
-                      "value": 600
+                      "value": 940
                     },
                     "Cursed": {
                       "type": "byte",

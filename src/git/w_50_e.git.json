@@ -17793,67 +17793,6 @@
         "__struct_id": 5,
         "Appearance": {
           "type": "byte",
-          "value": 2
-        },
-        "Description": {
-          "type": "cexolocstring",
-          "value": {}
-        },
-        "HasMapNote": {
-          "type": "byte",
-          "value": 0
-        },
-        "LinkedTo": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "LocalizedName": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "SP_PL_PC0"
-          }
-        },
-        "MapNote": {
-          "type": "cexolocstring",
-          "value": {}
-        },
-        "MapNoteEnabled": {
-          "type": "byte",
-          "value": 0
-        },
-        "Tag": {
-          "type": "cexostring",
-          "value": "bandit_camp_sm"
-        },
-        "TemplateResRef": {
-          "type": "resref",
-          "value": "bandit_rally_005"
-        },
-        "XOrientation": {
-          "type": "float",
-          "value": 0.0
-        },
-        "XPosition": {
-          "type": "float",
-          "value": 166.9769
-        },
-        "YOrientation": {
-          "type": "float",
-          "value": 1.0
-        },
-        "YPosition": {
-          "type": "float",
-          "value": 158.8747
-        },
-        "ZPosition": {
-          "type": "float",
-          "value": 5.0
-        }
-      },
-      {
-        "__struct_id": 5,
-        "Appearance": {
-          "type": "byte",
           "value": 1
         },
         "Description": {
@@ -18344,7 +18283,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "0": "SP_SN1_RW_RS20_PC0"
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
           }
         },
         "MapNote": {
@@ -18406,7 +18345,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "0": "SP_SN1_RW_RS20_PC0"
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
           }
         },
         "MapNote": {
@@ -18468,7 +18407,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "0": "SP_SN1_RW_RS20_PC0"
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
           }
         },
         "MapNote": {
@@ -18530,7 +18469,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "0": "SP_SN1_RW_RS20_PC0"
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
           }
         },
         "MapNote": {
@@ -18592,7 +18531,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "0": "SP_SN1_RW_RS20_PC0"
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
           }
         },
         "MapNote": {
@@ -18654,7 +18593,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "0": "SP_SN1_RW_RS20_PC0"
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
           }
         },
         "MapNote": {
@@ -18716,7 +18655,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "0": "SP_SN1_RW_RS30_PC0"
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
           }
         },
         "MapNote": {
@@ -18778,7 +18717,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "0": "SP_SN1_RW_RS30_PC0"
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
           }
         },
         "MapNote": {
@@ -18840,7 +18779,7 @@
           "id": 14817,
           "type": "cexolocstring",
           "value": {
-            "0": "SP_SN1_RW_RS30_PC0"
+            "0": "SP_RS35_SR05_RW_PC05_SD180M90_IS1D0"
           }
         },
         "MapNote": {

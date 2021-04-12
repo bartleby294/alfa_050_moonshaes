@@ -60,7 +60,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 12
+                "value": 15
               },
               "IsChild": {
                 "type": "byte",
@@ -79,7 +79,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 10
+                "value": 13
               },
               "IsChild": {
                 "type": "byte",
@@ -98,7 +98,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 9
+                "value": 12
               },
               "IsChild": {
                 "type": "byte",
@@ -117,7 +117,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 6
+                "value": 9
               },
               "IsChild": {
                 "type": "byte",
@@ -136,7 +136,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 1
+                "value": 4
               },
               "IsChild": {
                 "type": "byte",
@@ -155,7 +155,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 5
               },
               "IsChild": {
                 "type": "byte",
@@ -168,6 +168,25 @@
             },
             {
               "__struct_id": 6,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 3
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 7,
               "Active": {
                 "type": "resref",
                 "value": ""
@@ -202,7 +221,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "*grins* Welcome friend! You a hunter? Got any deer hides going spare? We'll gladly take em off your hands."
+            "0": "*grins* Welcome friend! Ye a hunter? Got any deer hides going spare? We'll gladly take em off yer hands."
           }
         }
       },
@@ -247,7 +266,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 4
+                "value": 2
               },
               "IsChild": {
                 "type": "byte",
@@ -266,7 +285,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 1
               },
               "IsChild": {
                 "type": "byte",
@@ -290,7 +309,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "We are indeed! *grins* Just bring us the carcass o' any deer you manage to bring down, we'll skin 'em an gut 'em. The hides'll be ours but we'll pay ye for 'em. The meat is yours to do with as you will."
+            "0": "Eh?! This be O'Malley village, <lad/lass>. Or at least them buildins over north o' thae road be O'Malley. *gestures to the building behind him* this here be a tannery."
           }
         }
       },
@@ -335,7 +354,26 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 3
+                "value": 7
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            },
+            {
+              "__struct_id": 1,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 5
               },
               "IsChild": {
                 "type": "byte",
@@ -359,7 +397,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Wha' do I look like, someone who scurries through trees an' shoots a bow an' arrow? Ye be wanting to talk to the hunters about that. They 'ave a camp just west o' here."
+            "0": "We are indeed! *grins* Just bring us the carcass o' any deer you manage to bring down, we'll skin 'em an gut 'em. The hides'll be ours but we'll pay ye for 'em. The meat is yours to do with as you will."
           }
         }
       },
@@ -404,7 +442,76 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 5
+                "value": 6
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Speaker": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Wha' do I look like, someone who scurries through trees an' shoots a bow an' arrow? Ye be wanting to talk to the hunters about that. They 'ave a camp just west o' here."
+          }
+        }
+      },
+      {
+        "__struct_id": 4,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "RepliesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 8
               },
               "IsChild": {
                 "type": "byte",
@@ -423,7 +530,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 2
+                "value": 5
               },
               "IsChild": {
                 "type": "byte",
@@ -456,7 +563,7 @@
         }
       },
       {
-        "__struct_id": 4,
+        "__struct_id": 5,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -496,7 +603,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 8
+                "value": 11
               },
               "IsChild": {
                 "type": "byte",
@@ -515,7 +622,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 7
+                "value": 10
               },
               "IsChild": {
                 "type": "byte",
@@ -544,7 +651,7 @@
         }
       },
       {
-        "__struct_id": 5,
+        "__struct_id": 6,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -589,75 +696,6 @@
           "type": "cexolocstring",
           "value": {
             "0": "Store on the edge of town! O'Reilly's Leathers. They wash and air them before their sold, just so you know."
-          }
-        }
-      },
-      {
-        "__struct_id": 6,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "RepliesList": {
-          "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 11
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 0
-              }
-            }
-          ]
-        },
-        "Script": {
-          "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Speaker": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "Aw now, it's not so bad! You get used to the smell after a while. Say a few years. After that? Why, it's reliable work in a peaceful part of town. What more could you want?"
           }
         }
       },
@@ -708,6 +746,75 @@
                 "type": "byte",
                 "value": 0
               }
+            }
+          ]
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Speaker": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Aw now, it's not so bad! You get used to the smell after a while. Say a few years. After that? Why, it's reliable work in a peaceful part of town. What more could you want?"
+          }
+        }
+      },
+      {
+        "__struct_id": 8,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "RepliesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 17
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
             },
             {
               "__struct_id": 1,
@@ -721,7 +828,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 9
+                "value": 12
               },
               "IsChild": {
                 "type": "byte",
@@ -744,7 +851,7 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 13
+                "value": 16
               },
               "IsChild": {
                 "type": "byte",
@@ -776,7 +883,7 @@
   },
   "NumWords": {
     "type": "dword",
-    "value": 415
+    "value": 468
   },
   "PreventZoomIn": {
     "type": "byte",
@@ -787,51 +894,6 @@
     "value": [
       {
         "__struct_id": 0,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "EntriesList": {
-          "type": "list",
-          "value": []
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Script": {
-          "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "Must have taken a wrong turn somewhere, sorry."
-          }
-        }
-      },
-      {
-        "__struct_id": 1,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -891,12 +953,171 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "You're looking for more hides for your tannery? I am hunting deer for a living, what do I need to do for you to pay me?"
+            "0": "Where the heck am I? What is this place called?"
+          }
+        }
+      },
+      {
+        "__struct_id": 1,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": []
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Thanks *leave*"
           }
         }
       },
       {
         "__struct_id": 2,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 0
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 1
+              },
+              "LinkComment": {
+                "type": "cexostring",
+                "value": ""
+              }
+            }
+          ]
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Oh right, thanks. I have other things I wish to ask though."
+          }
+        }
+      },
+      {
+        "__struct_id": 3,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": []
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Must have taken a wrong turn somewhere, sorry."
+          }
+        }
+      },
+      {
+        "__struct_id": 4,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -956,57 +1177,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Where are the best places to hunt?"
+            "0": "You're looking for more hides for your tannery? I am hunting deer for a living, what do I need to do for you to pay me?"
           }
         }
       },
       {
-        "__struct_id": 3,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "EntriesList": {
-          "type": "list",
-          "value": []
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Script": {
-          "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "All right, thanks."
-          }
-        }
-      },
-      {
-        "__struct_id": 4,
+        "__struct_id": 5,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1066,12 +1242,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Huh, what am I meant to do walking around with a skinned deer carcass once you're done with it?"
+            "0": "Where are the best places to hunt?"
           }
         }
       },
       {
-        "__struct_id": 5,
+        "__struct_id": 6,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1116,7 +1292,7 @@
         }
       },
       {
-        "__struct_id": 6,
+        "__struct_id": 7,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1176,52 +1352,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "I do have some hides for you."
-          }
-        }
-      },
-      {
-        "__struct_id": 7,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "EntriesList": {
-          "type": "list",
-          "value": []
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Script": {
-          "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "Thank you *leave*"
+            "0": "Huh, what am I meant to do walking around with a skinned deer carcass once you're done with it?"
           }
         }
       },
@@ -1249,31 +1380,7 @@
         },
         "EntriesList": {
           "type": "list",
-          "value": [
-            {
-              "__struct_id": 0,
-              "Active": {
-                "type": "resref",
-                "value": ""
-              },
-              "ConditionParams": {
-                "type": "list",
-                "value": []
-              },
-              "Index": {
-                "type": "dword",
-                "value": 4
-              },
-              "IsChild": {
-                "type": "byte",
-                "value": 1
-              },
-              "LinkComment": {
-                "type": "cexostring",
-                "value": ""
-              }
-            }
-          ]
+          "value": []
         },
         "Quest": {
           "type": "cexostring",
@@ -1290,7 +1397,7 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Got some more here! *hand across another hide*"
+            "0": "All right, thanks."
           }
         }
       },
@@ -1355,12 +1462,126 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "Where can I buy goods made from your hides - leather armours and such?"
+            "0": "I do have some hides for you."
           }
         }
       },
       {
         "__struct_id": 10,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": []
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Thank you *leave*"
+          }
+        }
+      },
+      {
+        "__struct_id": 11,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 5
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 1
+              },
+              "LinkComment": {
+                "type": "cexostring",
+                "value": ""
+              }
+            }
+          ]
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "Got some more here! *hand across another hide*"
+          }
+        }
+      },
+      {
+        "__struct_id": 12,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1420,57 +1641,12 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "This place is utterly disgusting, how do you stand it?"
+            "0": "Where can I buy goods made from your hides - leather armours and such?"
           }
         }
       },
       {
-        "__struct_id": 11,
-        "ActionParams": {
-          "type": "list",
-          "value": []
-        },
-        "Animation": {
-          "type": "dword",
-          "value": 0
-        },
-        "AnimLoop": {
-          "type": "byte",
-          "value": 1
-        },
-        "Comment": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Delay": {
-          "type": "dword",
-          "value": 4294967295
-        },
-        "EntriesList": {
-          "type": "list",
-          "value": []
-        },
-        "Quest": {
-          "type": "cexostring",
-          "value": ""
-        },
-        "Script": {
-          "type": "resref",
-          "value": ""
-        },
-        "Sound": {
-          "type": "resref",
-          "value": ""
-        },
-        "Text": {
-          "type": "cexolocstring",
-          "value": {
-            "0": "To each their own I suppose."
-          }
-        }
-      },
-      {
-        "__struct_id": 12,
+        "__struct_id": 13,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1530,12 +1706,57 @@
         "Text": {
           "type": "cexolocstring",
           "value": {
-            "0": "*lugging a dead deer* Here on business. I'll want the meat back, you can keep the rest."
+            "0": "This place is utterly disgusting, how do you stand it?"
           }
         }
       },
       {
-        "__struct_id": 13,
+        "__struct_id": 14,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": []
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "To each their own I suppose."
+          }
+        }
+      },
+      {
+        "__struct_id": 15,
         "ActionParams": {
           "type": "list",
           "value": []
@@ -1571,7 +1792,72 @@
               },
               "Index": {
                 "type": "dword",
-                "value": 7
+                "value": 8
+              },
+              "IsChild": {
+                "type": "byte",
+                "value": 0
+              }
+            }
+          ]
+        },
+        "Quest": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Script": {
+          "type": "resref",
+          "value": ""
+        },
+        "Sound": {
+          "type": "resref",
+          "value": ""
+        },
+        "Text": {
+          "type": "cexolocstring",
+          "value": {
+            "0": "*lugging a dead deer* Here on business. I'll want the meat back, you can keep the rest."
+          }
+        }
+      },
+      {
+        "__struct_id": 16,
+        "ActionParams": {
+          "type": "list",
+          "value": []
+        },
+        "Animation": {
+          "type": "dword",
+          "value": 0
+        },
+        "AnimLoop": {
+          "type": "byte",
+          "value": 1
+        },
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "Delay": {
+          "type": "dword",
+          "value": 4294967295
+        },
+        "EntriesList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "Active": {
+                "type": "resref",
+                "value": ""
+              },
+              "ConditionParams": {
+                "type": "list",
+                "value": []
+              },
+              "Index": {
+                "type": "dword",
+                "value": 8
               },
               "IsChild": {
                 "type": "byte",
@@ -1604,7 +1890,7 @@
         }
       },
       {
-        "__struct_id": 14,
+        "__struct_id": 17,
         "ActionParams": {
           "type": "list",
           "value": []
