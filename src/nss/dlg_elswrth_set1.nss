@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName dlg_elswrth_set1
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 2
+//:://////////////////////////////////////////////
+void main()
+{
+    // Set the variables
+    SetCampaignInt("MinorQuests", "iElsworthquest", 1, GetPCSpeaker());
+
+    // Give the speaker the items
+    CreateItemOnObject("elsworthsletter", GetPCSpeaker(), 1);
+
+}

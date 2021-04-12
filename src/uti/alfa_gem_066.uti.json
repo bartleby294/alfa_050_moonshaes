@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 4000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 4000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nRubies come in many different shapes and sizes, providing great variety to gemstone lovers. With hardness just below that of Diamonds, Rubies are one of the toughest gemstones, and with no cleavage, breakage rarely occurs\nLORE:\nWhen inserted beneath the skin it is believed that the stone generates a mystical force, which protects the wearer from accidents and attacks.  a common knowledge is that when a Ruby is worn on the left side of the body, the wearer will have success in controversies, disputes or wars. (bringing peace to the wearer) One who donated Rubies to the gods is almost assured of being reborn. \nMany healers state that a Ruby is good for the heart, brain and memory and that it purified the blood. \nmany also believs Rubies to contain prophetic powers, enabling wearers to predict their future"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Ruby"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 40
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_066"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_066"
+  }
+}

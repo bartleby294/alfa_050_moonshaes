@@ -8,4 +8,4 @@
 .nasher/
 
 # Ignore the modules directory
-#modules/
+modules/

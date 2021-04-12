@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 100
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 100
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "A transparent gem in colors of red, brown-green, or violet. This is the red variety.\n\nGarnets come in many colors but, as of the Year of Wild Magic, 1372 DR, the violet hue was the most valuable and called rhodolite[ while the other varieties and fallen out of favor and were valued in the fancy stone price range.\n\nIn some faiths and folklore, garnets are considered the solidified blood of the divine avatars.[4] To the uninitiated, garnets has the reputation of being worthless for magical use.\n\nGarnet is a common stone among the drow, a gem worn by drow of average station. There was a distinction regarding color preference depending on the profession of the wearer. Deep red is favored by warriors, while the priestesses of Lolth favored violet ones."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Red Garnet"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 28
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "014_gem_013"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "014_gem_013"
+  }
+}

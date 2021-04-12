@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName dlg_elswrth_dor0
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 0
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+
+    // Inspect the campaign variable
+    if(!(GetCampaignInt("MinorQuests", "iElsworthquest", GetPCSpeaker()) < 1))
+      return FALSE;
+
+      return TRUE;
+}

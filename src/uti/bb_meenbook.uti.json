@@ -1,0 +1,83 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 74
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Summary: Meenlocks are cruel little aberrations who cast fear auras, tear a victim's mind (wisdom) to shreds, hop around via dimension doors (like a blink dog, scripted behavior), and on hit of their weak claws, should paralyze (stun) a victim.\n\nThe reason they do this is to take live prey \"home\", torture it for 1d6 hours, in the process of creating a new meenlock.  \n\nThey communicate via telepathy, usually only to gibber madness and threats towards their intended victims.\n\n\n\n\nMeenlock CR 3\n\nLE Tiny Aberration\n\nInit +1; Senses dark vision 60’; Listen +5, Spot +4\n\nAura fear aura (range 30‘ radius burst, Will save DC 14 or catctonic for 1d4+4 rounds)- as free action\n\nLanguages telepathy! \n\nAC 13, touch 13, flat-footed 12\n\nhp 18 (4d8)\n\nFort +1, Ref +2, Will +5 \n\nSpd 20 ft.\n\nMelee 2 claws +5/+5 (1d2-2+paralysis)\n\nBase Atk +3; Grp +-7\n\nAtk Options Paralyze (Fort DC 14 or paralyzed for 3d6 rounds)\n\nSpecial Actions Meenlock Transformation (after 1d6 hours of torture, victim becomes a Meenlock), Dimension Door (once every two rounds- distance 60’, no additional weight), Fear aura, Rend Mind(Will save DC 14 or take 1d4 Wis damage) 1/four rounds. \n\nAbilities Str 6, Dex 13, Con 10, Int 11, Wis 12, Cha 15\n\nSQ dark vision, dimension door, telepathy 30’\n\nFeats Track, Weapon Finesse (claws), Multiattack\n\nSkills Hide +16, Listen +5, Move Silent +8, Spot +4\n\nFear Aura (Su): as a free action, a meenlock can produce a 30' radius burst fear effect centered on itself. Any creature in that area that fails a DC 14 will save becomes catatonic for 1d4+4 rounds. Any creature that successfuly saves will be unaffected again by that meenlocks fear aura for 24 hours.\n\nParalysis (Ex): Any creature hit by a Meenlock's claw attack must make a fortitude save or be paralyzed for 3d6 rounds. \n\n\nRend Mind (Su): A meenlock can project thoughts and suggestions into the mind of a single creature within 300'. The target of this mind-affecting phantasm must make a DC 14 will save or take 1d4 points of Wisdom damage. A meenlock can only use this ability once every 1d4 rounds. \n\n\nDimension Door (Su): Once every 2 rounds, a Meenlock can produce an effect like a dimension door spell, except limited to a range of 60' and no additional weight can be carried. \n\n\nTelepathy (Ex): A meenlock can communicate (usually only malevolently) with any creature within 300' using telepathy. \n\n\n"
+    }
+  },
+  "Description": {
+    "id": 13026,
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 13025,
+    "type": "cexolocstring",
+    "value": {
+      "0": "OOC Meenlock Properties"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 2
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 60
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "bb_meenbook"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "bb_meenbook"
+  }
+}

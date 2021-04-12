@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Star Sapphire was a very rare form of sapphire that exhibited asterism\n\nAsterism is a reflective optical effect that highlights a white six-pointed star on the surface of cabochon-cut stones. Star sapphires were more opaque than regular gem-quality sapphires. About one in a thousand sapphires was a star sapphire\n\nStar sappires were often used in making and decorating devices and objects to ward off hostile magic, such as globes of invulnerability, allowing them to be effective against stronger spells.Many spells could be enhanced by adding a star sapphire to the material component. For example, the duration of an antimagic shell could be extended for more than two hours beyond the usual time limit\n\nStar sapphires were considered prized gems among the drow. They considered it somewhat of a lucky charm for those who could use magic and a very bold choice for others. It was particularly used by old priestesses.\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Star Sapphire"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 42
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "014_gem_027"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "014_gem_027"
+  }
+}

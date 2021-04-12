@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 50
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 50
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Zircon is volcanic in origin, found in igneous rock formations. It was a brownish crystal that turned pale blue when heated sufficiently and can be cut into faceted gemstones. Zircons are sometimes substituted for more valuable gems to fool the uninitiated, but anyone with a passing knowledge of gemology (a jeweler, a dwarf, or even a seasoned adventurer) could notice the difference. Zircons have an affinity for magic and can be enchanted easily, making them a favorite for use in creating magical items.  \n\nIrcon is a common stone among the drow, a gem worn by drow of average station. It is considered the \"fine stone\" among them."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Zircon"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 48
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "014_gem_032"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "014_gem_032"
+  }
+}

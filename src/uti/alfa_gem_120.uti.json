@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 10
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 10
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\na stone made up by crystals and dull to the eye. all shapes and sizes exist and if kept away from any light a soft inner glow appear..\ndwarven gemdealers ofcourse say the glow comes from impuritys and infestations of just fungi and refuse to treat it as anything more then a dark pebble, this ofcourse have had a great impact of the price for in the end it is a crystal and as such a semiprecious stone\nLORE:\nshade stone, shadow jumper, dissaperance stone, heart of the assasin, many are the names related to this dark stone.. it hold the beliefs to open a portal between dark and shady places and by that \"move\" the owner from place to place.\n"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "dark stone"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 31
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_120"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_120"
+  }
+}

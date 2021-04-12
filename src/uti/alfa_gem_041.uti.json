@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 5000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nhoney/golden in color and holding its own light from within this a rare stone that must be worked upon to gain its looks and value\nLORE:\nsaid to be the spirit of a long forgotten race of dragons these gems are sought after by all intrested in history and miracles for its highly magical powers. Kings are belived to build castles over them since it make scrying on them impossible untill the gem is destroyed. \nsome folks state its simply a freak thing from nature and a ruby in reality that gotten a more golden hue"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Jacinth"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 9
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_041"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_041"
+  }
+}

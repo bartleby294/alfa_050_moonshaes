@@ -1,0 +1,213 @@
+{
+  "__data_type": "UTD ",
+  "AnimationState": {
+    "type": "byte",
+    "value": 0
+  },
+  "Appearance": {
+    "type": "dword",
+    "value": 0
+  },
+  "AutoRemoveKey": {
+    "type": "byte",
+    "value": 0
+  },
+  "CloseLockDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "Fancy Door"
+  },
+  "Conversation": {
+    "type": "resref",
+    "value": ""
+  },
+  "CurrentHP": {
+    "type": "short",
+    "value": 30
+  },
+  "Description": {
+    "id": 9077,
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "DisarmDC": {
+    "type": "byte",
+    "value": 15
+  },
+  "Faction": {
+    "type": "dword",
+    "value": 1
+  },
+  "Fort": {
+    "type": "byte",
+    "value": 16
+  },
+  "GenericType_New": {
+    "type": "dword",
+    "value": 42
+  },
+  "Hardness": {
+    "type": "byte",
+    "value": 15
+  },
+  "HP": {
+    "type": "short",
+    "value": 30
+  },
+  "Interruptable": {
+    "type": "byte",
+    "value": 1
+  },
+  "KeyName": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "KeyRequired": {
+    "type": "byte",
+    "value": 0
+  },
+  "LinkedTo": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LinkedToFlags": {
+    "type": "byte",
+    "value": 0
+  },
+  "LoadScreenID": {
+    "type": "word",
+    "value": 0
+  },
+  "Lockable": {
+    "type": "byte",
+    "value": 0
+  },
+  "Locked": {
+    "type": "byte",
+    "value": 0
+  },
+  "LocName": {
+    "id": 5349,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Fortified Door"
+    }
+  },
+  "OnClick": {
+    "type": "resref",
+    "value": "cs_door_at_click"
+  },
+  "OnClosed": {
+    "type": "resref",
+    "value": "cs_door_onclose"
+  },
+  "OnDamaged": {
+    "type": "resref",
+    "value": "cs_door_ondamage"
+  },
+  "OnDeath": {
+    "type": "resref",
+    "value": "cs_door_ondeath"
+  },
+  "OnDisarm": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnFailToOpen": {
+    "type": "resref",
+    "value": "cs_door_onfail"
+  },
+  "OnHeartbeat": {
+    "type": "resref",
+    "value": "cs_door_onhb"
+  },
+  "OnLock": {
+    "type": "resref",
+    "value": "cs_door_onlock"
+  },
+  "OnMeleeAttacked": {
+    "type": "resref",
+    "value": "cs_door_onphyatt"
+  },
+  "OnOpen": {
+    "type": "resref",
+    "value": "cs_door_onopen"
+  },
+  "OnSpellCastAt": {
+    "type": "resref",
+    "value": "cs_door_onspell"
+  },
+  "OnTrapTriggered": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnUnlock": {
+    "type": "resref",
+    "value": "cs_door_onunlock"
+  },
+  "OnUserDefined": {
+    "type": "resref",
+    "value": "cs_door_onusd"
+  },
+  "OpenLockDC": {
+    "type": "byte",
+    "value": 18
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 8
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 1
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 0
+  },
+  "Ref": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "fortified_door"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "fortified_door"
+  },
+  "TrapDetectable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapDetectDC": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapDisarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapFlag": {
+    "type": "byte",
+    "value": 0
+  },
+  "TrapOneShot": {
+    "type": "byte",
+    "value": 1
+  },
+  "TrapType": {
+    "type": "byte",
+    "value": 0
+  },
+  "Will": {
+    "type": "byte",
+    "value": 0
+  }
+}

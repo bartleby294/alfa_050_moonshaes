@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName dlg_elsworth_02
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 2
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+
+    // Inspect the campaign variable
+    if(!(GetCampaignInt("MinorQuests", "iElsworthquest", GetPCSpeaker()) == 2))
+      return FALSE;
+
+      return TRUE;
+}

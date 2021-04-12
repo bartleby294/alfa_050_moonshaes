@@ -1,0 +1,77 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 24
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "/*** PC has Placeable Trigger (Key) Item\r\n    - for Conversation Text Appears When\r\n    By: Ulias (Shawn Marcil)     Last Modified: September 22, 2004\r\n\r\n    Description\r\n    ---------------\r\n    Checks to see that the PC has a required trigger item\r\n    (a placeable object key) to display the conversation line\r\n    that this script is attached to.\r\n\r\n    Requirements\r\n    ---------------\r\n    The placeable object (ie. bookshelf) that the current conversation\r\n    belongs to must have _PK#### (ie. _PK0001) in its tag.\r\n\r\n    The placeable object key (the item that the PC is required\r\n    to have in their inventory in order for this script's associated\r\n    conversation line to display) must have its tag exactly in the\r\n    format pKey_R_PK#### (ie. pKey_R_PK0001 or pKey_PK0001) so that the\r\n    4 digit number following the \"_PK\" flag matches the corresponding placeable object's\r\n    \"_PK\" flag number. Omitting the \"_R\" flag means that the item is not\r\n    reusable and it is destroyed once it is successfully used.\r\n\r\n    Note: PK stands for Placeable (object) Key\r\n**/"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 0
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Shiny Polished Stone"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 33
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 23
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "pkey_PK0001"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "pkey_pk0001"
+  }
+}

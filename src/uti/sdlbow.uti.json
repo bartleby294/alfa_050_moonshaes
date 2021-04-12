@@ -1,0 +1,89 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 0
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 8
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "1"
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 150
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "id": 14049,
+    "type": "cexolocstring",
+    "value": {
+      "0": "An icon of power and precision for the Elves, the longbow is the most feasome ranged weapon on the shelf. Fast to load, faster to fire and delivering unmatched piercing power at a great distance, the longbow is the first line of defense for any establishment wishing to protect its residents from marauding attackers."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "id": 14050,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Longbow"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 52
+  },
+  "ModelPart2": {
+    "type": "byte",
+    "value": 74
+  },
+  "ModelPart3": {
+    "type": "byte",
+    "value": 44
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 3
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "sdlbow"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "sdlbow"
+  }
+}

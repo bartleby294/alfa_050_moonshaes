@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 50
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 50
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nSard is a fairly common stone thats dark purple and black in uncut state and rarly worked upon due to its tendency to crack and shatter. in jewellery it oftes comes as polished round beads\nLORE:\na old tale say a jeweller and cleric of Garl Glittergold, was asked to find a stone of little value and plain looks that easily could be worked into shapes and colors beyond normal imagination. at his death Garl asked of this gem and the gnome opened his hand and showed the Sard. \n"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Sard"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 22
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_069"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_069"
+  }
+}

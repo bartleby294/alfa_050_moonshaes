@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nA rare stone that when found looks like any plain dark rock or dark dull granite, when polished It shows many fine concentric bands and eyes in shiny 'smoked chrome' alternating with metallic black, and it is very highly reflectiv. its surface is that of hard wax and light sparkle from its banding silver\nLORE:\nsaid to add bands of silver as it ages and therefore be a living thing. sought after by many for just this while wizzards seek it since it is belived to hold within a thread leading to the plane of pure magic"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Crown of Silver"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 24
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_024"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_024"
+  }
+}

@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName batsconvo
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 0
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+
+    // Inspect local variables
+    if(!(GetCampaignInt("RepeatableStatics", "defiledcavernsbats", GetPCSpeaker()) == 0))
+        return FALSE;
+
+    return TRUE;
+}

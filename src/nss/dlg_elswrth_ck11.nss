@@ -1,0 +1,16 @@
+//::///////////////////////////////////////////////
+//:: FileName dlg_elswrth_ck11
+//:://////////////////////////////////////////////
+//:://////////////////////////////////////////////
+//:: Created By: Script Wizard
+//:: Created On: 0
+//:://////////////////////////////////////////////
+int StartingConditional()
+{
+
+    // Inspect the campaign variable
+    if(!(GetCampaignInt("MinorQuests", "iElsworthquest", GetPCSpeaker()) == 11))
+      return FALSE;
+
+      return TRUE;
+}

@@ -1,0 +1,3804 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 6
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 53
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 60
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777448
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 74
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PL0_SN10M01_RS05_SR99M05_orestone_3"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_pl_sn50_rs102"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PL0_SN20M05_RS25_SR99M05_orestone_2"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_pl_sn50_rs101"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PL0_SN2M00_RS01_SR99M05_orestone_6"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_pl_sn50_rs105"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PL0_SN2M00_RS10_SR99M05_orestone_5"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_pl_sn50_rs104"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PL0_SN5M01_RS05_SR99M05_orestone_1"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_pl_sn50_rs103"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SN31M05_SA_SR53M02_PC02R_PL0_orestone_1"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_pl_sn50_rs100"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777450
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 67
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP2_SN5_PC05_SD200_PR01T1_CD1T3R7_ID429_tunnelfiend1"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_pr01t0"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777449
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777457
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 7
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 12
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp001"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SF_PC1_cartanddonkey2"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "cartanddonkey2"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777436
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 17
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SF_PC02"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777441
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 13
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777437
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 18
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777442
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 16
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777440
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 14
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777438
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 15
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SF_PC05_CD0T3[arkiem]"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_sf_pc05_cd001"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SF_PC05_CD0T3[llira]"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_sf_pc05_cd0t3"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777439
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777443
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 8
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 19
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777436
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 24
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777441
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 20
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777437
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 25
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777442
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 23
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777440
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 21
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777438
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 22
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777439
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777444
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 9
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 26
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777436
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 41
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777441
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 29
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777437
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 44
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777442
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 38
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777440
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 32
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777438
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 35
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777439
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777445
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 10
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 27
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777436
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 42
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777441
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 30
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777437
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 45
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777442
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 39
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777440
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 33
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777438
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 36
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777439
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777446
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 11
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 28
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_FT201"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_ft201"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_FT206"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_ft206"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_FT211"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_ft211"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_FT230"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_ft230"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777436
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 43
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "PR01_SN1"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pr01_sn1"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "PR01_SN2"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pr01_sn002"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "PR01_SN3"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pr01_sn003"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "PR01_SN4"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pr01_sn004"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "PR01_SN5"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pr01_sn005"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "PR01_SN6"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "pr01_sn006"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SN05_PR01T3_SD1P_IS1D0_CD145T3_PC01_DO"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "alfa_grd_ptrl_da"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SN05_PR01T3_SD1P_IS1D0_CD145T3_PC01_NO"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "alfa_grd_ptrl_ni"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777441
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 31
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_FT200"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_ft200"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_FT205"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_ft205"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_FT210"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_ft210"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777437
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 46
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SG_SN21M05_SA05M02_SR90 M03_SD20M06_NOD_RW_PC03_RG010M001C05_CD004T2_HL01 _waterdahviansnitetime"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "waterdahvians001"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SG_SN40M10_SA05M02_SR90M03_DOD_RW_PC03_RG010M001C05_CD004T2_HL01_waterdahviansdaytime"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "waterdahvians"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777442
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 40
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777440
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 34
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777438
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 37
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777439
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777447
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 52
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 59
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777448
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 73
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777450
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 66
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777449
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777456
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 49
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 56
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777448
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 70
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SN9M1_SA4"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "skeleton004"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777450
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 63
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777449
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777453
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 48
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 55
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PL_PC02_alfa_troakaxlrg"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "sp_pl_"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777448
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 69
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777450
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 62
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PL_SF_PC02_alfa_thornwall"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "alfa_thornwall"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777449
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777452
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 51
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 58
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PC02_SF_SD200_CD120_ID0425"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "orc_flag001"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PC02_SF_SD200_CD120_ID0425"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "orc_flag002"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PC03_SF_SD200_CD120_ID0425"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "orc_flag"
+                          }
+                        },
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_PC03_SF_SD200_CD120_ID0425"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "orc_flag003"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777448
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 72
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777450
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 65
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777449
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777455
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 47
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 54
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777448
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 68
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777450
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 61
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777449
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777451
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 50
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 57
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777448
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 71
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777450
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "ID": {
+                      "type": "byte",
+                      "value": 64
+                    },
+                    "LIST": {
+                      "type": "list",
+                      "value": [
+                        {
+                          "__struct_id": 0,
+                          "NAME": {
+                            "type": "cexostring",
+                            "value": "SP_SN03_SA_SG_SD10_RS25_CD120T3_LT550_DS2_PC05_PR50T2"
+                          },
+                          "RESREF": {
+                            "type": "resref",
+                            "value": "rustedblades"
+                          }
+                        }
+                      ]
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 16777449
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16777454
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 16777435
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moonwell Druid 1 SP"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint057"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moonwell Druid 1 Walk Loc"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint063"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moonwell Druid 2 SP"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint059"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moonwell Druid 2 Walk Loc"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint064"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moonwell Druid 3 SP"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint060"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moonwell Druid 4 SP"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint061"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moonwell High Druid SP"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint058"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moonwell High Druid Walk Loc"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint065"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Moonwell Light SP"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint062"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_FT28_sewers_2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sp_ft28"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_FT36_sw_guildthief"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint713"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_FT48_sw_commoner"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint382"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_FT50_sw_warehouseitem"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint081"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_FT99_sw_bandits"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint080"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_PC01_PL0"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "alfa_campfire"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_PL_bandit_rally"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_rally_poi"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_Slimygob4"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "slimygoblin4"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_PL_bandit_lg"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_rally_003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_PL_bandit_md"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_rally_002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_PL_bandit_sm"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_rally_001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_PL_PC0"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_rally_004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_PL_PC0"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_rally_005"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_PL_PC0"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "bandit_rally_006"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_SN05_SA_SR10_PC05R_CD045T3_SG_SU30"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "road_low004"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Datapoint"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_datapoint"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - A Template"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Cave (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Cave (2x2, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_015"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Cave Mining Pile (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_016"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Cave Stone Column (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_017"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Gazebo (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_018"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City House 1 (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_019"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City House 2 (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_020"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Marble Arch (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_021"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Market 1 (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_022"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Market 2 (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_023"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Rubble (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_024"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Ruined Arch (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_025"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Ruined House (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_026"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Ruins 1 (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_027"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Ruins 2 (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_028"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - City Wagon (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_029"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Grass (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Grass (2x2, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_011"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Grass Ant Hill (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_030"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Grass Caravan (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_013"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Grass Crystal (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_031"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Grass Graves (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_032"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Ice (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_005"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Ice (1x1, 0.5m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_008"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Ice (2x2, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_033"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Ice (2x2, 0.5m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_034"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Ice Bump (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_035"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Ice Castle Wall (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_036"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Ithillid Transporter (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_037"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Jail (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_039"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Jail (2x2, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_040"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Kitchen Lantern (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_041"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Lava (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Lava (2x2, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_014"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Lava Fountain (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_012"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Pit (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_042"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Pit (2x2, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_043"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Underdark Waterfall (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_044"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Water Blue 1 (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_006"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Water Blue 1 (1x1, 0.5m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_009"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Water Blue 1 (2x2, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_045"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Water Blue 1 (2x2, 0.5m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_046"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Water Green (1x1, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_007"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Water Green (1x1, 0.5m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_010"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Water Green (2x2, 0.01m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_047"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "TileMagic - Marker - Water Green (2x2, 0.5m, Normalised)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sj_tilemagic_048"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "SP_SN04_SA_CD120T3_SD10_RS80_DS2_PC5_RW"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "waypoint101"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "10"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_area_10"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "10"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_local_10"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "15"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_area_15"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "15"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_local_15"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "20"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_area_20"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "20"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_local_20"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_area_25"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "25"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_local_25"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "30"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_area_30"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "30"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_local_30"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_area_35"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "35"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_local_35"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "40"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_area_40"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "40"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_local_40"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "5"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_area_5"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "5"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_local_5"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "CLIMB_RED"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "climb_red"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Cursed Agent WP"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "curseditemwp"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "FishingHole"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "tsfishinghole"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "FLY_GREEN"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "fly_green"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "FLY_RED"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "fly_red"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Sleeping Zone - Area"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "sleepingzonefree"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "_Secret Passage Waypoint"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "secret_passage"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - Arctic Environment"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_enviro_ar"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - Desert Environment"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_enviro_ds"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - Forest Environment"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_enviro_fr"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - Jungle Environment"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_enviro_jn"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - Mountain Environment"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_enviro_mn"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - No Environment"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_enviro_na"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - Plains Environment"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_enviro_pl"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - Prevent AC Recalling"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_no_ac"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - Swamp Environment"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_enviro_sw"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AC - Underdark Environment"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_enviro_ug"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AP_004_001_050"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint070"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "AT_p00p00p00"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "at_waypoint"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "cor_trade_wagon_escort_wp"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint087"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "corwell_to_kingsbay_wp"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint088"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Fishwaypoint"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint050"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Map Note Boat Tickets"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mapnote003"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Map Note Fishing"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mapnote002"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "NO_LOOTING"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "no_looting"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Place this in snowy areas"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "alfa_snow_area"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Place this where you want only clear weather"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "alfa_cl_wea_only"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Place this where you want only rainy weather"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "alfa_rn_wea_only"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Place this where you want only stormy weather"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "alfa_st_wea_only"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Place this WP where you want the char to bend over to pick up fallen cut wood"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint054"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Place this WP where you want the char to put wood away"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint055"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Place this WP where you want the char to stand to chop wood"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint053"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_FT100"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sp_ft100"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_FT101"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sp_ft101"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_FT102"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "sp_ft102"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PC0_DOD_SF"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint069"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint002"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint003"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint004"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint006"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_3mushrooms"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint033"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_birch stand"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint039"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_birch_large"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint031"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_decid_large_green"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint024"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_decid_large2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint026"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_fern"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint021"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_flowers_yellow"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint010"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_foliage_fern2"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint022"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_pine_large"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint009"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_pine_stand"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint005"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_PL_tree_leaning"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint028"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint042"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint043"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint044"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint066"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01_PC01_SD60_RW_CD240T3_RH15_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint046"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01_PC01_SF"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint076"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01_PC01_SF_DS0"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint047"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01_PC01_SF_DS0"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint067"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01_PC01_SF_DS0"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint068"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01_PC01_SF_DS0"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint071"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN01_PC05_HR05T20_SF_DS0"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint075"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low011"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low112"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low113"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low114"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low115"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low116"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low117"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low118"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low119"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low120"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low121"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10_SA_SG_SR5_SD60_PC01_CD145T3R7_HL10E_RH_DS2_SU30"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "road_low122"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN10M3_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint017"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN2M1_PC01_SD60_DS2_RW_RHD15_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint019"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN2M1_PC01_SD60_DS2_RW_RHD15_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint051"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN2M1_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint015"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN2M1_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint040"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN2M1_PC01_SD60_DS2_RW_RHD60_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint016"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN4M2_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint014"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN4M2_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint041"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN4M2_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint074"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN6_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint018"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN6M2_PC01_SD60_DS2_RW_RHD10_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint013"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN6M2_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint012"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN6M2_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint023"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN6M2_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint045"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN6M2_PC01_SD60_DS2_RW_RHD30_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint049"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP_SN6M3_PC01_SD60_DS2_RW_RHD60_CD240T3R7_SA"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint052"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_2mushrooms"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint032"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_birch_medium"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint030"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_birch_small"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint029"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_decid_medium"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint027"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_Fir1"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_flowers_shamrock"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint011"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_foliage_ferns"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint020"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_medium_oak"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint025"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_oak largest"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint034"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_pine_medium"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint008"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC1_Reeds"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint038"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC5_fence1pole"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint007"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC5_fence1pole"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint072"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "SP10_PL_PC5_fence1pole"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint073"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Spider Web"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint085"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Spider Web Block"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint086"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Start Location Waypoint"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_start"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_stealth001"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 69066
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Village Life Children Playing Tag"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint079"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Village Life Crop Tending"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint084"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Village Life Home"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint078"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Village Life Market Stall"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint083"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Village Life Tavern"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint077"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Village Life Water Source"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint082"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint036"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 14817
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint037"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 14817
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint048"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 14817
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint056"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 14817
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WDportal"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint035"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WP_BAR"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_bar"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WP_REST"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp_rest"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WP_START_LOCATION"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypointstart"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WP01"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp01"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WP02"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp02"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WP03"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp03"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "WP04"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "wp04"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6798
+        }
+      }
+    ]
+  }
+}

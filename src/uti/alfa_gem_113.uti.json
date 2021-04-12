@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 75
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 75
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\na stone that comes in a varity of colors and shapes and often seen in jewellery of average quality, Tsavorite ranges from light green to very dark. The finest stones are eye clean with an intense medium green color. Tsavorite has grown tremendously in popularity in recent years as more stable supplies have reached the market.\n\n\nLORE:\nGarnets are believed to contain both protective and destructive elements. \nThis one are belived to be a cure to all poison if one swallow it whole and then sleep for 3 days"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Garnet -tsavorite"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 26
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_113"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_113"
+  }
+}

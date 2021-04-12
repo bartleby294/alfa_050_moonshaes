@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 75
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 75
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nAlestone is not a stone in the general term but more a mixture of silica and a array of minerals that make under pressure from deep result in this foamy looking offwhilte stone\n\nLORE:\nKnown are the dwarfstone and said to be the secret why so many dwarf can stand up drinking tenfold compare to humans.\nIf powedered in hot water some gnome inventor realize it be a soaplike issue to it aswell but this is belived by most owners as pure gnometalk"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Alestone"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 8
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_108"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_108"
+  }
+}

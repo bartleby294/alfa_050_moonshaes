@@ -1,0 +1,81 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 50
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 50
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Tchazar was the Realms name for aragonite which occurred in long, prism-shaped crystals that were straw-yellow and very fragile\n\nThis gemstone was important to those who feared magical scrying because tchazar interfered with scrying devices and spells, rendering anything within 2 ft (60 cm) of a tchazar stone blurry and indistinguishable. The effect was the same regardless of how the tchazar was cut (cabochon, facted, or natural crystal) so it was used to adorn many personal items and locations where privacy was of utmost importance. This magical smoke screen effect was lost if the tchazar stone was shattered."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Tchazar"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 9
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "014_gem_061"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "014_gem_061"
+  }
+}

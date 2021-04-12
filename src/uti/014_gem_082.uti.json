@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 500
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 500
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Garnets came in many colors but, as of the Year of Wild Magic, 1372 DR, the violet hue was the most valuable and called rhodolite while the other varieties and fallen out of favor and were valued in the fancy stone price range.In later years, even the violet hued stones dropped in value.\n\nIf mounted on a weapon and properly enchanted, garnets could double or triple the damage dealing potential of that weapon. The most propitious time of day to begin these weapon enchantments was high morn\n\nGarnet is a common stone among the drow, a gem worn by drow of average station. There is a distinction regarding color preference depending on the profession of the wearer. Deep red is favored by warriors, while the priestesses of Lolth favor violet ones.\n\n"
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Violet Garnet"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 18
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "014_gem_082"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "014_gem_082"
+  }
+}

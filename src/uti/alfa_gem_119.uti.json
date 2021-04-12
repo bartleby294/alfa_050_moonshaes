@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 6000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 6000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "DESCRIPTION:\nA small gem of intense moving blue inner light that swirls and shimmer. \nno use to work it since over time it return to its original shape. Discussions are heard weither to call it a gem or some result of magic... either way its a rare thing indeed\nLORE:\ncalled the tears of mystra and is belived to be the remains of a maguser who failed in his castings, a token of sorrow left by mystra herself and that is belived to hold all the arcane might the previous wielder moved around before failing in his doings.\nOther belive its a gem fallen from a another plane, probably the celestial and by this must be returned as soon one is to be found or the maker will strike hard to get it back\n\n"
+    }
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Mystras sorrow"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 45
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "alfa_gem_119"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "alfa_gem_119"
+  }
+}

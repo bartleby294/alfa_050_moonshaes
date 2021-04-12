@@ -1,0 +1,79 @@
+{
+  "__data_type": "UTI ",
+  "AddCost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "BaseItem": {
+    "type": "int",
+    "value": 77
+  },
+  "Charges": {
+    "type": "byte",
+    "value": 0
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Cost": {
+    "type": "dword",
+    "value": 1000
+  },
+  "Cursed": {
+    "type": "byte",
+    "value": 0
+  },
+  "DescIdentified": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Red Tears, also known as Tempus' weeping, or Tempus's weeping are gemstones found only in the Realms in deep mines or anywhere old stone had been exposed by erosion, mining, or rockfall.\n\nThe church of Tempus believes that their deity appeared during the Time of Troubles in both Battledale and the Fields of the Dead, but which occurred first has not been established. What is known is the Foehammer journeyed across four famous battlefields, using or creating a circular chain of one-way portals, and leaving a trail of red tears behind him to mark the path he took. If they were real gems, they have long since been collected or stolen. What remained behind were actually illusions of Tempus's weepings, only visible to those who successfully met the challenges at each stop along the trail."
+    }
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "Identified": {
+    "type": "byte",
+    "value": 1
+  },
+  "LocalizedName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Red Tears"
+    }
+  },
+  "ModelPart1": {
+    "type": "byte",
+    "value": 11
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 57
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PropertiesList": {
+    "type": "list",
+    "value": []
+  },
+  "StackSize": {
+    "type": "word",
+    "value": 1
+  },
+  "Stolen": {
+    "type": "byte",
+    "value": 0
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "014_gem_044"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "014_gem_044"
+  }
+}

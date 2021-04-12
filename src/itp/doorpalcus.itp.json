@@ -1,0 +1,734 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "House Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_normal002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Shop Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_normal003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Warehouse Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_normal001"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "ve_vh01_cit_06"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "ve_vh01_cit_07"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "ve_vh01_cit_09"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "ve_vh01_cit_15"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "ve_vh01_cit_16"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "ve_vh01_cit_18"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "ve_vh01_cit_19"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "ve_vh01_cit_27"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5349
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Door6"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "ve_vh01_cit_004"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6734
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 6
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_grate001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dungeon Metal"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dungeon_metal"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dungeon Metal (close & lock)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dungeon_metal001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dungeon Metal (close)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dungeon_metal002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Portcullis"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "portcullis"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Portcullis"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "portcullis001"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6736
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 9
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 201
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 7
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6737
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 8
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Big Hinge 2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "big_hinge2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Caravan Flap"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "curtain"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Cedar Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cedar"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Cedar Door - Key locked"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cedar001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dark Wooden Door (key locked)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_wood004"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "nw_door_hills"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5349
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Door1"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ve_vh01_cit_001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Door2"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ve_vh01_cit_002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Door3"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_hills"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Door4"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ve_vh01_cit_003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Door5"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_hills001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dungeon Plain"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dungeon_plain"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dungeon Rune"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dungeon_rune"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dungeon w/Grate"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dungeon_grate"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Dungeon Window"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dungeon_window"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Engraved Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "engraved_door"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fancy Door Key Locked"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "door_fancy001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Fortified Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "fortified_door"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Green Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "big_hindge1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Inlaid Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "inlaid_door"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Inn Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "inn1"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Inn Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "inn2"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Oriental Sliding Glass"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ori_sliding_glas"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Oriental Sliding Wood"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "ori_sliding_wd"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Panel Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "panel_door"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Pine Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "pine_door"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Pine Door (close and lock)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "pine_door001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Pine Door (close)"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "pine_door002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Pine Door w/Vines"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "pine_w_vine"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Spanish Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "spanish_door"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Spanish Door Key Locked"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "spanish_door001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Tent Flap"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "cave_door"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Tent Flap"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "tent_flap"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Wagon Door"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "wagon_door"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6738
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6735
+        }
+      }
+    ]
+  }
+}
