@@ -7,5 +7,5 @@ if ($confirmation -eq 'y' -or $confirmation -eq 'Y') {
 
 	cd $script_dir
 	
-	./tools/win/nasher/nasher.exe pack --clean --verbose --erfUtil:"$script_dir/tools/win/neverwinter64/nwn_erf.exe" --gffUtil:"$script_dir/tools/win/neverwinter64/nwn_gff.exe" --tlkUtil:"$script_dir/tools/win/neverwinter64/nwn_tlk.exe" --nssCompiler:"$script_dir/tools/win/nwnsc/nwnsc.exe" --installDir:"$script_dir" --nssFlags:"-n 'D:\Steam\steamapps\common\Neverwinter Nights'" --yes
+	./tools/win/nasher/nasher.exe pack --clean --verbose --erfUtil:"$script_dir/tools/win/neverwinter64/nwn_erf.exe" --gffUtil:"$script_dir/tools/win/neverwinter64/nwn_gff.exe" --tlkUtil:"$script_dir/tools/win/neverwinter64/nwn_tlk.exe" --nssCompiler:"$script_dir/tools/win/nwnsc/nwnsc.exe" --installDir:"$script_dir" --nssFlags:"-n D:\Steam\steamapps\common\NeverwinterNights" --yes
 }
