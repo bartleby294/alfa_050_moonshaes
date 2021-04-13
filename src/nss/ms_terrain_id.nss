@@ -113,8 +113,8 @@ int NearByTreeCountDepreciated(location tileLoc){
     while(obj != OBJECT_INVALID
           && GetDistanceBetweenLocations(tileLoc, GetLocation(obj)) < 10.0) {
         // if we have tree in the name or tag close enough its a tree.
-        if(NWNX_Regex_Search(GetTag(obj), "(?i)(tree)") == TRUE
-           || NWNX_Regex_Search(GetName(obj), "(?i)(tree)") == TRUE) {
+        if(TestStringAgainstPattern("**tree**", GetTag(obj)) == TRUE
+            || TestStringAgainstPattern("**tree**", GetName(obj)) == TRUE) {
             treeCount++;
         }
         i++;
