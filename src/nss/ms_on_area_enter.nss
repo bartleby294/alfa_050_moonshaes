@@ -31,12 +31,11 @@ void setVisibleObjets(object oPC) {
 }
 
 void main() {
-WriteTimestampedLogEntry("ms_on_area_enter: 1");
     object oArea = GetArea(OBJECT_SELF);
     object oPC = GetEnteringObject();
     int iFired = GetLocalInt(OBJECT_SELF, "setup");
     int iNumPlayers = 0;
-WriteTimestampedLogEntry("ms_on_area_enter: 2");
+
     //MapAreaTerrain(oArea);
 
     /************* This section fires for all players, NPCs, and DMs***********/
@@ -44,24 +43,23 @@ WriteTimestampedLogEntry("ms_on_area_enter: 2");
         SetLocalInt(oArea, "X2_L_WILD_MAGIC", 1);
         SetLocalInt(OBJECT_SELF, "setup", 1);
     }
-WriteTimestampedLogEntry("ms_on_area_enter: 3");
+
     // WE NEED vg_area_enter BEFORE WE TURN THIS BACK ON!
     //WaterCheck(oArea, oPC);
 
     if(!GetIsPC(oPC)) {
         return;
     }
-WriteTimestampedLogEntry("ms_on_area_enter: 4");
+
     setVisibleObjets(oPC);
-WriteTimestampedLogEntry("ms_on_area_enter: 5");
+
     /*************** This section fires for all players, and DMs***************/
 
     if(GetEventScript(OBJECT_SELF, EVENT_SCRIPT_AREA_ON_HEARTBEAT) == "") {
       SetEventScript(OBJECT_SELF, EVENT_SCRIPT_AREA_ON_HEARTBEAT,
                                         "spawn_sample_hb");
-WriteTimestampedLogEntry("ms_on_area_enter: 6");
     }
-WriteTimestampedLogEntry("ms_on_area_enter: 7");
+
     //WriteTimestampedLogEntry("RandomAreaSeed Start");
     RandomAreaSeed(oArea);
     //WriteTimestampedLogEntry("RandomAreaSeed End");
@@ -69,11 +67,11 @@ WriteTimestampedLogEntry("ms_on_area_enter: 7");
     //if(GetLocalInt(oArea, "TRAPS") == 1){
     //    ExecuteScript("dbhsc_oe_trapme", OBJECT_SELF);
     //}
-WriteTimestampedLogEntry("ms_on_area_enter: 8");
+
     if(GetIsDM(oPC)){
         return;
     }
-WriteTimestampedLogEntry("ms_on_area_enter: 9");
+
   /**************** This section fires for ONLY Player characters**************/
 
     //Gold encumberance
@@ -81,7 +79,7 @@ WriteTimestampedLogEntry("ms_on_area_enter: 9");
     if ((GetLocalInt(oPC, "alfa_doa_gold") / 500) != (iNewGold/500)) {
         ExecuteScript("alfa_goldencum", oPC);
     }
-WriteTimestampedLogEntry("ms_on_area_enter: 10");
+
     //New area exploration XP
     string sTrigTag = GetResRef(oArea);
     if((GetCampaignInt("ExploreXPDB", sTrigTag + GetName(oPC) + "Fired")!= TRUE)

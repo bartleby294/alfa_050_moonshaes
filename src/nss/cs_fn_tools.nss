@@ -24,11 +24,11 @@ int DC_HARD = 2;
     // the declaration of AbilityCheck function
 int AbilityCheck(int DC, int nAbility, object oTarget)
 {
- int nModify;
+int nModify;
     // get the ability modifier for the target of the check.
  nAbility = GetAbilityModifier(nAbility, OBJECT_SELF);
     // get the ability modifier for the PC
- int nPCAbility = GetAbilityModifier(nAbility, oTarget);
+int nPCAbility = GetAbilityModifier(nAbility, oTarget);
     // if the target of the check has a negative or zero ability modifier then
     // make the modifier 0
 if (nAbility <= 0)

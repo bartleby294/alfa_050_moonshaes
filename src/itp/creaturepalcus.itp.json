@@ -10148,6 +10148,25 @@
               },
               "RESREF": {
                 "type": "resref",
+                "value": "coveredwagon1"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "CR": {
+                "type": "float",
+                "value": 4.0
+              },
+              "FACTION": {
+                "type": "cexostring",
+                "value": "Neutral"
+              },
+              "NAME": {
+                "type": "cexostring",
+                "value": "Trade Wagon"
+              },
+              "RESREF": {
+                "type": "resref",
                 "value": "mstradewagon1"
               }
             },

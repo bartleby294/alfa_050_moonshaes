@@ -31363,6 +31363,25 @@
           "type": "byte",
           "value": 0
         },
+        "VisualTransform": {
+          "__struct_id": 6,
+          "type": "struct",
+          "value": {
+            "__struct_id": 6,
+            "ScaleX": {
+              "type": "float",
+              "value": 0.95
+            },
+            "ScaleY": {
+              "type": "float",
+              "value": 0.95
+            },
+            "ScaleZ": {
+              "type": "float",
+              "value": 0.95
+            }
+          }
+        },
         "Will": {
           "type": "byte",
           "value": 0
@@ -41168,7 +41187,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag6"
+          "value": "PrivateInnKeyRedstag6"
         },
         "KeyRequired": {
           "type": "byte",
@@ -44320,7 +44339,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag7"
+          "value": "PrivateInnKeyRedstag7"
         },
         "KeyRequired": {
           "type": "byte",
@@ -46040,6 +46059,25 @@
         "Useable": {
           "type": "byte",
           "value": 1
+        },
+        "VisualTransform": {
+          "__struct_id": 6,
+          "type": "struct",
+          "value": {
+            "__struct_id": 6,
+            "ScaleX": {
+              "type": "float",
+              "value": 0.95
+            },
+            "ScaleY": {
+              "type": "float",
+              "value": 0.95
+            },
+            "ScaleZ": {
+              "type": "float",
+              "value": 0.95
+            }
+          }
         },
         "Will": {
           "type": "byte",
@@ -49071,7 +49109,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag8"
+          "value": "PrivateInnKeyRedstag8"
         },
         "KeyRequired": {
           "type": "byte",
@@ -68739,7 +68777,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag9"
+          "value": "PrivateInnKeyRedstag9"
         },
         "KeyRequired": {
           "type": "byte",
@@ -68964,7 +69002,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag6"
+          "value": "PrivateInnKeyRedstag6"
         },
         "KeyRequired": {
           "type": "byte",
@@ -69189,7 +69227,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag8"
+          "value": "PrivateInnKeyRedstag8"
         },
         "KeyRequired": {
           "type": "byte",
@@ -69414,7 +69452,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag7"
+          "value": "PrivateInnKeyRedstag7"
         },
         "KeyRequired": {
           "type": "byte",
@@ -69639,7 +69677,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag1"
+          "value": "PrivateInnKeyRedstag1"
         },
         "KeyRequired": {
           "type": "byte",
@@ -70545,7 +70583,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag3"
+          "value": "PrivateInnKeyRedstag3"
         },
         "KeyRequired": {
           "type": "byte",
@@ -70770,7 +70808,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag2"
+          "value": "PrivateInnKeyRedstag2"
         },
         "KeyRequired": {
           "type": "byte",
@@ -71220,7 +71258,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag5"
+          "value": "PrivateInnKeyRedstag5"
         },
         "KeyRequired": {
           "type": "byte",
@@ -73276,7 +73314,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag5"
+          "value": "PrivateInnKeyRedstag5"
         },
         "KeyRequired": {
           "type": "byte",
@@ -75855,6 +75893,25 @@
           "type": "byte",
           "value": 0
         },
+        "VisualTransform": {
+          "__struct_id": 6,
+          "type": "struct",
+          "value": {
+            "__struct_id": 6,
+            "ScaleX": {
+              "type": "float",
+              "value": 0.95
+            },
+            "ScaleY": {
+              "type": "float",
+              "value": 0.95
+            },
+            "ScaleZ": {
+              "type": "float",
+              "value": 0.95
+            }
+          }
+        },
         "Will": {
           "type": "byte",
           "value": 0
@@ -75940,7 +75997,7 @@
         },
         "KeyName": {
           "type": "cexostring",
-          "value": "InnKeyRedstag9"
+          "value": "PrivateInnKeyRedstag9"
         },
         "KeyRequired": {
           "type": "byte",
